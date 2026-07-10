@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shadowing Lab</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar-main">
+        <div>
+          <h1>Shadowing Lab</h1>
+          <p id="statusText">Choose a project to begin.</p>
+        </div>
+        <div class="score">
+          <strong id="progressCount">0 / 0</strong>
+          <span id="progressPercent">0%</span>
+        </div>
+      </div>
+
+      <div class="progress-shell" aria-label="Progress">
+        <div id="progressFill" class="progress-fill"></div>
+      </div>
+
+      <div class="toolbar">
+        <label class="field">
+          <span>Project</span>
+          <select id="projectSelect">
+            <option value="interview">Interview</option>
+            <option value="xingchen">Xingchen</option>
+          </select>
+        </label>
+        <label class="field compact-field">
+          <span>Speed</span>
+          <select id="rateSelect">
+            <option value="0.85">0.85x</option>
+            <option value="0.95">0.95x</option>
+            <option value="1" selected>1.0x</option>
+            <option value="1.08">1.08x</option>
+            <option value="1.15">1.15x</option>
+          </select>
+        </label>
+        <button id="startBtn" class="primary">Start Practice</button>
+        <button id="pauseBtn">Pause</button>
+        <button id="replayBtn">Replay Current</button>
+        <button id="restartBtn">Restart</button>
+        <label class="toggle">
+          <input id="autoScrollToggle" type="checkbox" checked />
+          Auto-scroll
+        </label>
+      </div>
+    </header>
+
+    <main>
+      <section class="hint-panel">
+        <div>
+          <strong>One-key flow</strong>
+          <span>Listen first -> hold Space to shadow -> release Space to complete -> next sentence plays automatically.</span>
+        </div>
+        <kbd>Space</kbd>
+      </section>
+
+      <section id="sentenceList" class="sentence-list" aria-live="polite"></section>
+    </main>
+
+    <audio id="player" preload="auto"></audio>
+    <script src="data/datasets.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

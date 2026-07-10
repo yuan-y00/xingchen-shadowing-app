@@ -1,0 +1,551 @@
+[
+  {
+    "id": 1,
+    "speaker": "Xingchen",
+    "section": "Showroom Visit and Close-Range Teleoperation",
+    "section_zh": "一、展厅参观与近程遥操",
+    "english": "All right, let's start from the left side so the whole flow is easy to follow. The left side is our R&D area, so please don't take photos there; the right side is the showroom, and you are welcome to take pictures on that side. Next, I'll walk you through the teleoperation setup and show you a bit of what the model can do. For the model demo, I may need to check with my teammate on the exact startup steps, but this part right here is close-range teleoperation, and after I show it once, everyone can try it out.",
+    "literal_zh": "我们先从左边开始看。左边是研发区域，不允许拍照；右边是展厅区域，可以拍照。接下来我给大家展示一下技术遥操和模型能力。不过模型这一块如果要启动，我还需要问一下同事具体怎么操作。现在展示的是近程遥操，你们都可以上手试一下。",
+    "audio": null
+  },
+  {
+    "id": 2,
+    "speaker": "Xingchen",
+    "section": "Showroom Visit and Close-Range Teleoperation",
+    "section_zh": "一、展厅参观与近程遥操",
+    "english": "You don't have to fully wear the device right now; just hang it around your neck for this part. Stand right here for a second, stay still, and now you're good to start operating.",
+    "literal_zh": "你不用把设备戴上，挂在脖子上就行。先站在这个位置，不要动，现在可以开始操作。",
+    "audio": null
+  },
+  {
+    "id": 3,
+    "speaker": "Xingchen",
+    "section": "Showroom Visit and Close-Range Teleoperation",
+    "section_zh": "一、展厅参观与近程遥操",
+    "english": "The B button is for calibration, so that is always our first step. Did you feel the device vibrate? If not, calibration has not landed yet, so we need to do it again. Once it is calibrated, press A and the robot hand will come online, and when you need to stop, just press the stop button. If you bend forward, the robot bends forward with you, and it is much easier to feel that connection in person. Side-to-side bending is not supported in this position yet, because this joint can sway but cannot tilt like a human body. Later, with a spherical joint, we can open up more directions of motion.",
+    "literal_zh": "B 键是标定键，第一步就是标定。设备震动了吗？如果没有震动，就说明还没有标定成功。标定后按 A 键，手部就会启动。这个时候再按终止键。你往前弯腰，机器人就会跟着弯腰；但是左右方向现在还不行，因为这个位置只能晃动，不能像人一样倾斜。后续如果使用球形关节，就可以实现更多方向的动作。",
+    "audio": null
+  },
+  {
+    "id": 4,
+    "speaker": "Xingchen",
+    "section": "Showroom Visit and Close-Range Teleoperation",
+    "section_zh": "一、展厅参观与近程遥操",
+    "english": "From a degrees-of-freedom point of view, it can get pretty close to the effect we want. The body is not really bending by itself; the motion is happening more at the end, and the nice part is that it also supports proportional control.",
+    "literal_zh": "从自由度上看，它可以达到类似效果。只是身体本身没有弯，实际弯曲的是末端。它还支持比例控制。",
+    "audio": null
+  },
+  {
+    "id": 5,
+    "speaker": "Xingchen",
+    "section": "Showroom Visit and Close-Range Teleoperation",
+    "section_zh": "一、展厅参观与近程遥操",
+    "english": "This part is surprisingly precise, so go ahead and try inserting it here. The overall data-collection experience feels smooth, and once you try it, it is easier to understand than just watching me explain it.",
+    "literal_zh": "这个很精密。你可以把它插下去试试。整体数采体验还是比较流畅的。",
+    "audio": null
+  },
+  {
+    "id": 6,
+    "speaker": "Xingchen",
+    "section": "Showroom Visit and Close-Range Teleoperation",
+    "section_zh": "一、展厅参观与近程遥操",
+    "english": "Everyone on our team has to pass this operation test, because once you know the posture, the workflow is very learnable. When you tap, hold it like this so the force can push back cleanly. If your hand gets loose, the device starts tilting up and down, so this posture keeps everything much steadier.",
+    "literal_zh": "这一套操作我们内部所有人都要考核，因为确实不算复杂。敲击时必须用这种姿势，力才能顶回来；如果松开，就会上下倾斜，所以这样操作会更稳。",
+    "audio": null
+  },
+  {
+    "id": 7,
+    "speaker": "Xingchen",
+    "section": "Remote Teleoperation and Model Demo",
+    "section_zh": "二、远程遥操与模型 Demo",
+    "english": "To be honest, I still have not passed the remote teleoperation test myself, because I am not quite smooth enough with it yet. But the exciting part is that remote operation over the public internet does work. We tested Beijing to Shenzhen with latency roughly under 200 milliseconds, and later we also tested a Singapore link, which is basically ultra-long-distance teleoperation.",
+    "literal_zh": "实话说，我这个远程遥操考核一直没有通过，因为我自己还没有特别熟练。远程走公网这种方式可以做。我们测试过北京到深圳的公网链路，时延大概在两百毫秒以内；后来也测试过新加坡链路，算是超远程遥操。",
+    "audio": null
+  },
+  {
+    "id": 8,
+    "speaker": "Xingchen",
+    "section": "Remote Teleoperation and Model Demo",
+    "section_zh": "二、远程遥操与模型 Demo",
+    "english": "The big thing with remote operation is not just getting the network to connect; it is keeping communication stable and latency under control. A public internet link can run, but that does not automatically make it production-ready. From what I understand, the current setup is more like waking the robot up remotely and letting it do slower actions. To make it truly production-grade, we still need stronger communication, steadier control, closed-loop task handling, and safety protection that you can really trust.",
+    "literal_zh": "不过，远程传输的核心问题其实还是通信稳定性和时延控制。公网链路能跑通，不代表它马上就能用于生产。我虽然没有看到完整的生产级实现，但我的理解是，它现在可能更多是把机器人启动起来，再慢慢执行一些动作。要真正达到生产级别，还需要解决通信、控制稳定性、任务闭环和安全保护等问题。",
+    "audio": null
+  },
+  {
+    "id": 9,
+    "speaker": "Xingchen",
+    "section": "Remote Teleoperation and Model Demo",
+    "section_zh": "二、远程遥操与模型 Demo",
+    "english": "When you finish the whole operation, just press B, and then you can set the controller down.",
+    "literal_zh": "所有操作完成后，按 B 键就可以把手柄放下。",
+    "audio": null
+  },
+  {
+    "id": 10,
+    "speaker": "Xingchen",
+    "section": "Remote Teleoperation and Model Demo",
+    "section_zh": "二、远程遥操与模型 Demo",
+    "english": "This robot is pretty tough, so don't be too nervous when you feel the feedback. Turn your wrist a little; yes, exactly like that. Now the reaction force can hold against you. Try pressing all the way down and you will feel the force feedback. Push a little harder and it will vibrate too, although the vibration comes in a bit slower. That reaction force travels through the joints and motors, and the robot body also has its own protective cover.",
+    "literal_zh": "我们机器人整体还是比较耐用的。把手腕转一下，对，这样反作用力就能顶住。你可以试着敲到底，它会有力反馈；再用力一点会震动，只是震动反馈会稍微慢一点。反作用力是通过关节和电机传递的，同时机器人本体也有防护罩。",
+    "audio": null
+  },
+  {
+    "id": 11,
+    "speaker": "Xingchen",
+    "section": "Remote Teleoperation and Model Demo",
+    "section_zh": "二、远程遥操与模型 Demo",
+    "english": "It is actually hard to make the two hands fully touch. When they get close, you can feel this slight pull, almost like they want to snap together a little.",
+    "literal_zh": "两个手很难完全贴合在一起，靠近时会有一点吸附感。",
+    "audio": null
+  },
+  {
+    "id": 12,
+    "speaker": "Xingchen",
+    "section": "Remote Teleoperation and Model Demo",
+    "section_zh": "二、远程遥操与模型 Demo",
+    "english": "One demo we have always wanted to build is a juggling demo, like throwing three balls at the same time. It would be such a fun model demo, but right now even manual teleoperation cannot do it cleanly yet, so doing it fully with a model is a much bigger challenge. Still, the long-term idea is exciting: if a human can do a motion, the robot has a real chance of learning it in the future.",
+    "literal_zh": "我们一直想做一个耍杂技的 demo，比如同时抛三个球。我们也想用模型做这种 demo，但现在人工遥操都还做不到，更不用说完全依靠模型。理论上，只要人能做到的动作，机器人未来大概率也能做到。",
+    "audio": null
+  },
+  {
+    "id": 13,
+    "speaker": "Xingchen",
+    "section": "Tendon-Driven Structure and Mechanical Design",
+    "section_zh": "三、绳驱结构与机械设计",
+    "english": "Now let's switch gears and talk about production and the mechanical structure. You asked whether we have our own factories, and yes, we do: one in Wuxi and one in Bao'an.",
+    "literal_zh": "我们再说一下工厂生产和结构方案。你们问是不是自建工厂，我们在无锡有一个工厂，在宝安也有一个工厂。",
+    "audio": null
+  },
+  {
+    "id": 14,
+    "speaker": "Xingchen",
+    "section": "Tendon-Driven Structure and Mechanical Design",
+    "section_zh": "三、绳驱结构与机械设计",
+    "english": "This structure uses tendon cables to drive the joints, so the force changes depending on the angle. For example, when the arm is held straight out, the S1 can stay level and keep working steadily. For the T1, the harder part is keeping the arm stable after it bends, and that is where the mechanical design really matters.",
+    "literal_zh": "我们这套结构是通过腱绳牵引来完成关节运动的。不同角度下，受力状态不一样。比如手臂平举时，S1 可以保持水平并稳定作业；T1 的难点在于，手臂弯曲之后还要保持稳定工作。",
+    "audio": null
+  },
+  {
+    "id": 15,
+    "speaker": "Xingchen",
+    "section": "Tendon-Driven Structure and Mechanical Design",
+    "section_zh": "三、绳驱结构与机械设计",
+    "english": "The big win for a tendon-driven robot is that it is better for long working hours. Motor heat is a huge deal in robot design, because if the motor sits right at the joint, it keeps working whenever the arm moves, and that heat is hard to get rid of. Some designs use air cooling or liquid cooling, but that can hurt dust protection, water protection, and explosion-proof design. In real production environments, heat dissipation and protection are both a big deal.",
+    "literal_zh": "我觉得绳驱机器人的最大优势，是可以支持长时间作业。电机发热是机器人设计里的一个大问题。如果电机直接放在关节处，只要手臂运动，电机就要持续运转并发热，热量很难释放。现在很多方案会用风冷或液冷，但这样会影响整机的防尘、防水、防爆能力。对于生产环境来说，散热和防护都很关键。",
+    "audio": null
+  },
+  {
+    "id": 16,
+    "speaker": "Xingchen",
+    "section": "Tendon-Driven Structure and Mechanical Design",
+    "section_zh": "三、绳驱结构与机械设计",
+    "english": "With a tendon-driven structure, we can keep the motors inside the body instead of putting them at the wrist or right at the joint end. That makes the end lighter, and it is friendlier for long-hour work. The tradeoff is that tendons can age, loosen, and become annoying to replace after long-term use. Also, tendon drive means you have to deal with multiple degrees of freedom, decoupling, forward kinematics, and inverse kinematics, so the control algorithm and the mechanical design both get more complicated.",
+    "literal_zh": "绳驱结构可以把电机放在身体内部，而不是放在手腕或关节末端。这样末端重量更轻，也更适合长时间工作。不过绳驱也有挑战，腱绳长期使用后会老化、松动，更换和维护也比较麻烦。另外，腱绳驱动涉及多个自由度之间的解耦和正逆解计算，控制算法和结构设计都会更复杂。",
+    "audio": null
+  },
+  {
+    "id": 17,
+    "speaker": "Xingchen",
+    "section": "Tendon-Driven Structure and Mechanical Design",
+    "section_zh": "三、绳驱结构与机械设计",
+    "english": "Direct drive can definitely handle many tasks, and from a build perspective, it is simpler. You can work with a few factories and assemble a robot that way. But once the space is limited, balancing performance, weight, heat, and cost all at the same time gets tricky. The robot's real performance is not just about tendon drive versus direct drive. It also depends on kinematics, collision detection, interface adaptation, control delay, and how mature the whole system is.",
+    "literal_zh": "直驱方案不是不能完成任务。直驱确实更简单，找几个厂子组装一下也能做出一台机器。但要在有限空间里同时兼顾性能、重量、散热和成本，并不容易。真正影响机器人表现的，不只是绳驱还是直驱，还包括正逆解算法、碰撞检测、接口适配、控制延迟和系统整体成熟度。",
+    "audio": null
+  },
+  {
+    "id": 18,
+    "speaker": "Xingchen",
+    "section": "Protection Modes, Load Capacity, and Safety Limits",
+    "section_zh": "四、保护模式、负载能力与安全边界",
+    "english": "This robot has built-in protection, kind of like limit protection. Once that protection is turned on, if there is a collision, the robot automatically goes into a protected state. Because this unit is here for showroom demos, we are running it in standard mode right now.",
+    "literal_zh": "这台机器人做了保护，类似限位保护。开启保护后，如果发生碰撞，机器人会自动进入保护状态。因为我是做展示用的，所以这台机器人目前使用标准模式。",
+    "audio": null
+  },
+  {
+    "id": 19,
+    "speaker": "Xingchen",
+    "section": "Protection Modes, Load Capacity, and Safety Limits",
+    "section_zh": "四、保护模式、负载能力与安全边界",
+    "english": "Besides standard mode, there is an enhanced mode that can boost load, speed, and strength in a big way. Our R&D team told me it can reach around three times the standard mode, but I usually say at least double to keep the estimate conservative. Once the right parameters are set, the motor can run at full power.",
+    "literal_zh": "除了标准模式，还有一种增强模式，可以大幅提升负载、速度和力量。研发跟我说，最高可以提升到标准模式的三倍左右；我保守一点说，至少能提升两倍。给到相应参数后，电机就可以满功率运行。",
+    "audio": null
+  },
+  {
+    "id": 20,
+    "speaker": "Xingchen",
+    "section": "Protection Modes, Load Capacity, and Safety Limits",
+    "section_zh": "四、保护模式、负载能力与安全边界",
+    "english": "For secondary development, you may not need those accounts at all. You can build on the standard robot-body parameters we provide, and if you stay within those standard parameters, you are totally fine. If a customer wants to push the robot closer to its limit, we can support that too, but the warranty needs a separate conversation. The reason is simple: the motors and related parts will be running much closer to full load, with much higher speed and force.",
+    "literal_zh": "如果是二次开发，实际上可能用不到这些账号。所有操作都可以基于我们提供的机器人本体参数标准来做，按照标准参数开发是完全没问题的。如果客户想追求极限性能，我们也可以支持，但质保需要另行约定，因为电机等部件会更接近满负荷运行，速度和力量都会明显提高。",
+    "audio": null
+  },
+  {
+    "id": 21,
+    "speaker": "Xingchen",
+    "section": "Protection Modes, Load Capacity, and Safety Limits",
+    "section_zh": "四、保护模式、负载能力与安全边界",
+    "english": "The robot itself is strong, so when I operate it, using both hands together usually feels more natural. Our internal tests also have time targets; for example, the desktop cleaning task has to be finished within nineteen seconds. The showroom robots are mainly for customer demos, and the S1 is basically our flagship. When it reaches a limit position, motions like wrist rotation and arm extension are restricted by protection, and those protections really do work.",
+    "literal_zh": "机器人本身力气也很大。我之前用两只手配合操作，会更合适一些。内部考核也有时间要求，比如桌面清扫要在十九秒内完成。展厅里的机器人主要用于客户演示。S1 算是我们的旗舰机型。到达极限位置时，手腕、胳膊伸展等动作都会受到保护限制，这些保护是有效的。",
+    "audio": null
+  },
+  {
+    "id": 22,
+    "speaker": "Xingchen",
+    "section": "Protection Modes, Load Capacity, and Safety Limits",
+    "section_zh": "四、保护模式、负载能力与安全边界",
+    "english": "My control setup is pretty easy to understand. The left joystick controls forward, backward, left, and right movement, and the right joystick controls the angle. There is also a mode where the robot follows a person, and so far, I have not run into any major issues with it.",
+    "literal_zh": "我的操作方式是：左边摇杆控制前后左右，右边摇杆控制角度。还有一个国内就是让机器人跟人一起走。目前我还没有遇到特别大的问题。",
+    "audio": null
+  },
+  {
+    "id": 23,
+    "speaker": "Xingchen",
+    "section": "Protection Modes, Load Capacity, and Safety Limits",
+    "section_zh": "四、保护模式、负载能力与安全边界",
+    "english": "We can also use an electronic scale right here to show the load capacity, which makes the number feel much more real. When we say the T1 can carry about five kilograms, we mean it can still work steadily with the arm fully extended. Of course, the actual performance still depends on posture, speed, the end effector, and the task you are asking it to do.",
+    "literal_zh": "现场也可以通过电子秤做负载演示。我们说 T1 最大负载约五公斤，是指在手臂伸直的情况下依然能稳定作业。当然，具体表现还会受姿态、速度、末端执行器和任务类型影响。",
+    "audio": null
+  },
+  {
+    "id": 24,
+    "speaker": "Xingchen",
+    "section": "Factory Production, Data Collection, and Aging Tests",
+    "section_zh": "五、工厂生产、数采与老化测试",
+    "english": "For production, R&D, data collection, and aging tests, we use dedicated robots. It is not like the structure team grabs one robot today and the electronics team borrows the exact same one tomorrow. Each type of work has its own relatively fixed machines, so the usage is much cleaner and easier to track.",
+    "literal_zh": "我们在生产、研发、数采、老化测试等环节都有固定设备。不会说结构工程师用一台，做板子的同事又把同一台借走。每类任务都有相对固定的机器人。",
+    "audio": null
+  },
+  {
+    "id": 25,
+    "speaker": "Xingchen",
+    "section": "Factory Production, Data Collection, and Aging Tests",
+    "section_zh": "五、工厂生产、数采与老化测试",
+    "english": "The data-collection robots work hard, like seriously hard. Our data-collection team runs in three shifts, so one robot can be used continuously by three different operators. Based on the data from this April, some individual robots had already logged around 5,500 working hours, and by now that number should be even higher. Some units have already passed 6,000 hours.",
+    "literal_zh": "数采设备的使用强度比较高。我们有数采团队采用三班倒模式，一台机器人对应三名操作人员，持续用于数据采集。按今年四月份的数据，部分单台机器人累计工作时长大概是五千五百小时，现在应该更多。也有单机累计运行超过六千小时的情况。",
+    "audio": null
+  },
+  {
+    "id": 26,
+    "speaker": "Xingchen",
+    "section": "Factory Production, Data Collection, and Aging Tests",
+    "section_zh": "五、工厂生产、数采与老化测试",
+    "english": "For aging tests, we have looked at what happens to the tendons after long-term use. The tendons do loosen over time, but we have units that only started losing accuracy after three years and three months of continuous use, and even then, the overall structure was still usable. Some units did not show obvious quality issues until around six years. So yes, tendons are long-term wear parts, but they can be reinforced or replaced during maintenance.",
+    "literal_zh": "老化测试方面，我们确实测过腱绳长期使用后的情况。腱绳在长期使用后会出现一定松动。我们有设备连续使用三年三个月后，精度才开始下降，但整体结构仍然可用。也有设备到六年后才出现明显质量问题。腱绳属于长期使用后会受影响的部件，后续可以通过加固或更换维护。",
+    "audio": null
+  },
+  {
+    "id": 27,
+    "speaker": "Xingchen",
+    "section": "Factory Production, Data Collection, and Aging Tests",
+    "section_zh": "五、工厂生产、数采与老化测试",
+    "english": "I also asked what kinds of issues have appeared during delivery. For factory yield, if you build ten robots, a hundred robots, or a thousand robots, it is not realistic to expect every single unit to be perfect. Some small bugs or minor issues may leave the factory, and if they are not caught during post-production checks, they show up after delivery. Most other delivery issues are smaller after-sales items, usually around algorithm adaptation or port matching. So far, we have not had large-scale motor replacement or large-scale tendon replacement.",
+    "literal_zh": "我也问过交付过程中出现过哪些问题。比如工厂良品率方面，生产十台、一百台、一千台机器人，不可能每一台都完全没有问题。出厂时可能会有一些 bug 或小问题，如果生产后没有检测出来，就会在交付后暴露。其他交付问题多半是算法、端口适配等售后小问题。到目前为止，电机没有大规模更换过，腱绳也没有大规模更换过。",
+    "audio": null
+  },
+  {
+    "id": 28,
+    "speaker": "Xingchen",
+    "section": "Factory Production, Data Collection, and Aging Tests",
+    "section_zh": "五、工厂生产、数采与老化测试",
+    "english": "The key parts can all be taken apart. This unit may be an early prototype used for debugging and positioning, so those markings are not random. During production, we add marks like this in many places to prevent assembly mistakes. Why would screws need to be replaced? Because vibration can make them shift. If the tendon or wiring is not aligned during inspection, that can turn into a problem later.",
+    "literal_zh": "关键部件都可以拆。这个可能是早期生产的样机，用来调试和定位。生产时为了做防呆定位，很多位置都会有类似标记。螺丝为什么要换？因为在震动过程中可能会偏移。如果检查时发现腱绳或线路对不准，就可能出现问题。",
+    "audio": null
+  },
+  {
+    "id": 29,
+    "speaker": "Xingchen",
+    "section": "Product Versions, Pricing, and Delivery Schedule",
+    "section_zh": "六、产品版本、价格与交付排期",
+    "english": "Right now, the two main series worth focusing on are the S1 and the T1.",
+    "literal_zh": "现在主要聊 S1 和 T1 两个系列。",
+    "audio": null
+  },
+  {
+    "id": 30,
+    "speaker": "Xingchen",
+    "section": "Product Versions, Pricing, and Delivery Schedule",
+    "section_zh": "六、产品版本、价格与交付排期",
+    "english": "The S1 is our flagship series, so it has stronger performance and a higher-end configuration, but of course the cost is higher too. We had a small amount of retail inventory before, and if you had come a few days earlier, you might still have been able to grab one. At the moment, we are focusing our production capacity, so small-batch S1 retail is not the top priority. If you have a clear batch demand later, we can absolutely keep talking about the S1.",
+    "literal_zh": "S1 是我们的旗舰系列，性能和配置更高，但成本也更高。之前还有少量零售库存，如果你们早几天来，可能还能买到。现在我们更倾向于集中产能，不太优先支持 S1 的小批量零售。如果后面你们有明确的批量需求，S1 也可以继续沟通。",
+    "audio": null
+  },
+  {
+    "id": 31,
+    "speaker": "Xingchen",
+    "section": "Product Versions, Pricing, and Delivery Schedule",
+    "section_zh": "六、产品版本、价格与交付排期",
+    "english": "The T1 is the mass-production product we are pushing the hardest right now. It actually came out last October, and batch delivery started this year. Because it is more affordable than the S1, demand has been really strong, so the delivery schedule is tight. If you place an order now, delivery may land around late August or early September. If it is truly urgent, I can try to coordinate internally and see whether one unit from a batch order can go to you first, but I cannot fully promise that.",
+    "literal_zh": "T1 是现在重点推进的量产产品。T1 其实去年十月就已经出来了，今年开始批量交付。因为价格相对 S1 更低，客户需求比较多，所以目前排期比较紧。如果现在下单，可能要排到八月底或九月初才能交付。如果确实紧急，我们可以尝试和同事协调，看批量订单里有没有机器能先交给你们，但这个不能完全保证。",
+    "audio": null
+  },
+  {
+    "id": 32,
+    "speaker": "Xingchen",
+    "section": "Product Versions, Pricing, and Delivery Schedule",
+    "section_zh": "六、产品版本、价格与交付排期",
+    "english": "For pricing, we have several versions. The half-body version is around RMB 89,900, and it is mainly for lighter desktop scenarios, like vending or popcorn demos, but it does not include full interfaces. The basic full-body version is around RMB 149,900, and that usually includes one robot and one remote controller, but no secondary development and no API access. The T1 secondary-development version is around RMB 315,270 including tax, and if we go by the public single-unit retail price, it may be higher.",
+    "literal_zh": "关于价格，现场有几个版本。半身版大概是 8.99 万元，主要适合桌面售卖、爆米花这类轻量场景，不含完整接口。基础全身版大概 14.99 万元，通常是一台机器人加一个遥控手柄，不含二开能力，也没有 API 接口。T1 二开版含税价格大概是 31.527 万元。如果按公开零售单台口径，价格可能更高。",
+    "audio": null
+  },
+  {
+    "id": 33,
+    "speaker": "Xingchen",
+    "section": "Product Versions, Pricing, and Delivery Schedule",
+    "section_zh": "六、产品版本、价格与交付排期",
+    "english": "The exact price depends on the configuration, so this is where we need to match the setup to your real use case. Options like the universal adapter board, automatic charging station, extra computing power, upgraded vision, and depth cameras will all change the final number. If you can first clarify your budget and requirements, I can help you put together a configuration that actually makes sense. The final price can be discussed, but only if you are seriously planning to buy. Feature access and interfaces are all negotiable.",
+    "literal_zh": "具体价格还是要看配置。比如万能转接板、自动充电站、额外算力、高配视觉、深度相机等选项，都会影响最终价格。你们要先明确预算和需求，我再帮你们做配置搭配。最终价格可以谈，但前提是你们确实要买。功能开放和接口这些都好谈。",
+    "audio": null
+  },
+  {
+    "id": 34,
+    "speaker": "Xingchen",
+    "section": "Product Versions, Pricing, and Delivery Schedule",
+    "section_zh": "六、产品版本、价格与交付排期",
+    "english": "The T1 is really popular right now. Today I can say August delivery might still be possible, but tomorrow I may not be able to say the same thing because we have our weekly meeting on Monday. Right now, the deposit is only RMB 10,000, and I also need to coordinate with the model team. Honestly, for a robot in the two-hundred-thousand-yuan range, the value is pretty solid.",
+    "literal_zh": "T1 现在确实很抢手。我今天可以说八月份有可能出货，但明天可能就不能保证，因为周一要开周会。现在只需要一万块钱定金。我还要和模型团队沟通。实话说，一台机器人二十来万，这个价格确实还算划算。",
+    "audio": null
+  },
+  {
+    "id": 35,
+    "speaker": "Xingchen",
+    "section": "Compute, Vision, Battery, and Interface Configuration",
+    "section_zh": "七、算力、视觉、电池与接口配置",
+    "english": "The robot uses body-side edge computing plus host-machine computing. The S1 uses Orange Pi, and the T1 mainly uses RK3588. Think of the edge computer as the robot's input-output and relay hub: it handles images, sensors, control commands, data access, and forwarding, and it also does some local computing. For heavier model inference, you can run that on the host machine or on external computing hardware.",
+    "literal_zh": "机器人采用的是“本体边缘计算 + 上位机算力”的架构。S1 用的是 Orange Pi，T1 主要用 RK3588。边缘计算平台更像输入输出和中继节点，负责图像、传感器、控制指令等数据的接入和转发，也承担部分本地计算。更重的模型推理，可以放在上位机或外部算力设备上。",
+    "audio": null
+  },
+  {
+    "id": 36,
+    "speaker": "Xingchen",
+    "section": "Compute, Vision, Battery, and Interface Configuration",
+    "section_zh": "七、算力、视觉、电池与接口配置",
+    "english": "Inside the company, we talk about the model capability as something like a big brain and a small brain. The small brain is closer to the execution layer: routine task reasoning, action assignment, and safety control. The big brain is more about complex task planning and higher-level decisions. If you buy our robot now, the small-brain system comes with it.",
+    "literal_zh": "我们内部把模型能力分成类似“大脑”和“小脑”的层级。“小脑”更偏执行层，负责常规任务的推理、动作分配和安全控制；“大脑”更偏复杂任务规划和高层决策。现在买我们的机器人，会一起交付小脑系统。",
+    "audio": null
+  },
+  {
+    "id": 37,
+    "speaker": "Xingchen",
+    "section": "Compute, Vision, Battery, and Interface Configuration",
+    "section_zh": "七、算力、视觉、电池与接口配置",
+    "english": "For vision, the T1 is slightly reduced compared with the S1. For example, the head camera and chest camera setups are different. Depth cameras, head vision, and automatic charging stations can all be selected based on what the customer needs. If you already have your own computing platform, you can choose a lower-compute version and connect your own high-performance GPU or external computing device.",
+    "literal_zh": "视觉配置方面，T1 相比 S1 有一定减配，比如头部摄像头和胸部摄像头配置不一样。深度相机、头部视觉、自动充电站等模块可以按客户需求选配。如果你们有自己的算力平台，也可以选择低配算力版本，再自己接高性能显卡或外部计算设备。",
+    "audio": null
+  },
+  {
+    "id": 38,
+    "speaker": "Xingchen",
+    "section": "Compute, Vision, Battery, and Interface Configuration",
+    "section_zh": "七、算力、视觉、电池与接口配置",
+    "english": "For battery life, the S1 is rated at about five to six hours, and the T1 is rated at about two to three hours. The T1 supports battery replacement, which gives you more flexibility during longer sessions. Actual battery life will still depend on load, task intensity, and the exact configuration.",
+    "literal_zh": "电池方面，S1 标称续航大概五到六小时，T1 标称续航大概两到三小时。T1 支持更换电池。实际续航会受负载、任务强度和具体配置影响。",
+    "audio": null
+  },
+  {
+    "id": 39,
+    "speaker": "Xingchen",
+    "section": "Compute, Vision, Battery, and Interface Configuration",
+    "section_zh": "七、算力、视觉、电池与接口配置",
+    "english": "The T1 can be configured with a universal adapter board, which is basically what lets it connect to different hands, grippers, navigation peripherals, and other external devices. The T1 and S1 are similar in hollow wiring, force drive, and transmission structure, but the T1 reduces arm length, body structure, and some configurations. That keeps the cost under control and makes it much better suited for mass production.",
+    "literal_zh": "T1 可以配置万能转接板，用来对接灵巧手、夹爪、导航外设等不同末端或外设。T1 和 S1 在中空走线、力的驱动和传输结构上有相似之处，但 T1 在手臂长度、构型和部分配置上做了缩减，这样可以控制成本，也更适合量产。",
+    "audio": null
+  },
+  {
+    "id": 40,
+    "speaker": "Xingchen",
+    "section": "Compute, Vision, Battery, and Interface Configuration",
+    "section_zh": "七、算力、视觉、电池与接口配置",
+    "english": "The T1 currently supports secondary development, and the secondary-development version opens API access. If you want to build a production line, whether for data collection or actual production, you will need drivers and control programs on the RK3588. You also need a stable control link between the robot body and the host machine, because that link is what keeps the whole workflow reliable.",
+    "literal_zh": "目前 T1 支持二次开发，二开版会开放 API 接口。你们如果要装一条产线，无论是做数采还是实际生产，都需要在 RK3588 上做驱动和控制程序，也需要在机器人本体和上位机之间建立稳定的控制链路。",
+    "audio": null
+  },
+  {
+    "id": 41,
+    "speaker": "Xingchen",
+    "section": "Operating System and Secondary Development",
+    "section_zh": "八、操作系统与二次开发",
+    "english": "If you want to build a robot operating system, I actually think that fits really well with our underlying logic. In the future, robots may work more like computers or phones: hardware body first, then an operating system, and then an app ecosystem on top. When users need a function, they download the matching app. For example, a cooking app could let the robot handle certain cooking tasks, and a navigation or shopping app could help it take on more complex outside tasks.",
+    "literal_zh": "你们如果想做机器人操作系统，我觉得和我们的底层逻辑是比较一致的。未来机器人可能会像电脑或手机一样，形成“硬件本体 + 操作系统 + 应用生态”的模式。用户需要什么功能，就下载对应应用。比如下载炒菜应用，机器人就能完成某类烹饪任务；下载导航或采购应用，机器人就可以执行更复杂的外部任务。",
+    "audio": null
+  },
+  {
+    "id": 42,
+    "speaker": "Xingchen",
+    "section": "Operating System and Secondary Development",
+    "section_zh": "八、操作系统与二次开发",
+    "english": "I think ROS1 and ROS2 are great for R&D and low-level development, but they are not the final user experience for everyday people. A consumer-facing robot system should feel much simpler, more like using phone apps. Users should not have to understand the underlying technology; they should just pick what they want the robot to do, and the system should handle the rest.",
+    "literal_zh": "我觉得 ROS1 和 ROS2 更适合作为研发和底层开发框架，不是真正面向大众用户的最终产品形态。面向 C 端用户的系统应该更简单，就像手机应用一样，用户不需要理解底层技术，只需要选择功能。",
+    "audio": null
+  },
+  {
+    "id": 43,
+    "speaker": "Xingchen",
+    "section": "Operating System and Secondary Development",
+    "section_zh": "八、操作系统与二次开发",
+    "english": "The T1 system architecture has some compatibility. If you need ROS2, we can help flash it in or do the adaptation work. Right now, the T1 uses Xingchen's own operating system, and my understanding is that it is packaged and improved on top of a ROS-like base. The system can keep evolving into V2, V3, and beyond.",
+    "literal_zh": "T1 的系统架构有一定兼容性。如果你们需要 ROS2，我们可以协助刷进去或做适配。现在 T1 用的是星尘自己的操作系统，我理解它是在 ROS 类底座上做了进一步封装和改良。后续系统也可以继续迭代到 V2、V3。",
+    "audio": null
+  },
+  {
+    "id": 44,
+    "speaker": "Xingchen",
+    "section": "Operating System and Secondary Development",
+    "section_zh": "八、操作系统与二次开发",
+    "english": "In the future, robots will definitely call different capabilities based on user instructions. The computing demand is huge, and it is not realistic for every home to have its own server sitting there. So future robots may need remote computing support. Computing power may be charged, and different apps may be charged too. Whether that becomes a monthly subscription or a one-time purchase depends on how the whole app ecosystem is designed.",
+    "literal_zh": "机器人以后一定会根据指令调用不同能力。因为算力需求很大，每个家庭不可能都配一台服务器，所以未来可能需要远程算力支撑。算力会收费，各种应用也会收费。具体是按月收费，还是一次性购买，要看整个 App 生态怎么设计。",
+    "audio": null
+  },
+  {
+    "id": 45,
+    "speaker": "Xingchen",
+    "section": "Operating System and Secondary Development",
+    "section_zh": "八、操作系统与二次开发",
+    "english": "Right now, we still do not have enough data; in a year, we may only collect around 50,000 hours. But once a lot of robots are collecting data at the same time, the scale will eventually get there. It could be 100 million hours, or even 1 billion hours.",
+    "literal_zh": "现在数据还不够，一年也只有五万个小时。但以后可以通过大量机器人采集，数据总会达到相应量级，无论是一亿小时还是十亿小时。",
+    "audio": null
+  },
+  {
+    "id": 46,
+    "speaker": "Xingchen",
+    "section": "End Effectors and Application Scenarios",
+    "section_zh": "九、末端执行器与应用场景",
+    "english": "In industrial scenarios, grippers can already cover a lot of tasks. But in the long run, end effectors will probably move more toward dexterous hands, because dexterous hands are much closer to human hands and are better for complex, general-purpose tasks.",
+    "literal_zh": "工业场景中，夹爪可以覆盖很多任务。但从长期看，机器人末端形态可能还是会逐渐向灵巧手收敛，因为灵巧手更接近人手，适合更复杂、更泛化的任务。",
+    "audio": null
+  },
+  {
+    "id": 47,
+    "speaker": "Xingchen",
+    "section": "End Effectors and Application Scenarios",
+    "section_zh": "九、末端执行器与应用场景",
+    "english": "That said, dexterous hands also have durability challenges. If customers run them at high intensity for a long time, they wear faster, so dexterous-hand manufacturers still need to keep improving that part. Right now, we have high-degree-of-freedom solutions with twenty degrees of freedom, and we also have simpler options like six-degree-of-freedom hands.",
+    "literal_zh": "不过，灵巧手也有耐久性问题。如果客户让灵巧手长期高强度工作，磨损会比较快，这部分需要灵巧手厂家继续提升。我们现在有二十自由度的高自由度方案，也有六自由度这类更简化的方案。",
+    "audio": null
+  },
+  {
+    "id": 48,
+    "speaker": "Xingchen",
+    "section": "End Effectors and Application Scenarios",
+    "section_zh": "九、末端执行器与应用场景",
+    "english": "For force control, the robot is not just doing open and close like a simple clamp. It can control how much force it applies. For example, when it holds a glass cup, the software can limit the maximum force so the robot does not crush it. That kind of control is very important for desktop tasks, retail, food service, and service scenarios.",
+    "literal_zh": "力控方面，机器人不是只有“开”和“合”两种状态，而是可以控制夹持力度。比如夹玻璃杯时，可以通过软件限制最大力，避免夹碎物体。这类能力对于桌面操作、零售、餐饮和服务场景都很重要。",
+    "audio": null
+  },
+  {
+    "id": 49,
+    "speaker": "Xingchen",
+    "section": "End Effectors and Application Scenarios",
+    "section_zh": "九、末端执行器与应用场景",
+    "english": "The scenarios we work with most include homes, commercial displays, culture and tourism, retail, and some industrial applications. Home and commercial scenarios show up more often, while industrial scenarios are fewer because they almost always need adaptation. Every factory has its own production lines, tooling, and workflow, so you cannot just copy and paste one solution everywhere.",
+    "literal_zh": "目前我们接触和落地比较多的场景，包括家庭、商业展示、文旅、零售和部分工业应用。家庭和商业场景相对更多，工业场景会少一些，因为工业场景都需要适配。不同工厂的产线、工装和流程差异很大，不能简单复制。",
+    "audio": null
+  },
+  {
+    "id": 50,
+    "speaker": "Xingchen",
+    "section": "End Effectors and Application Scenarios",
+    "section_zh": "九、末端执行器与应用场景",
+    "english": "In industrial scenarios, customers may need custom fixtures, tooling, or even a full end-to-end workflow. Even for the same type of factory, the process may differ by region or by production line. So robot applications usually need to be adapted around the exact step where the robot will be used.",
+    "literal_zh": "工业场景里，客户可能需要定制夹具、工装或端到端流程。即使是同一类工厂，不同地区或不同产线的工艺流程也可能不同，所以机器人应用往往要按具体环节重新适配。",
+    "audio": null
+  },
+  {
+    "id": 51,
+    "speaker": "Xingchen",
+    "section": "End Effectors and Application Scenarios",
+    "section_zh": "九、末端执行器与应用场景",
+    "english": "We already have customers using the robots in real production, including Xianfeng Lingyu and Jinma Rides. We have a data-collection factory in Guizhou and another one in Ma'anshan, and there are also more than one hundred units in Linyi. We also cooperate with Pai on large models. I do not know the exact details, but I do know the cooperation is real.",
+    "literal_zh": "我们目前已经实际应用到生产里的客户，包括先锋领域、金马游乐等。贵州有一个数采厂，马鞍山也有一个数采厂。临沂那边也有一百多台。我们和“派”在大模型方面有合作，但具体合作内容我不太清楚，只知道确实有合作。",
+    "audio": null
+  },
+  {
+    "id": 52,
+    "speaker": "Xingchen",
+    "section": "End Effectors and Application Scenarios",
+    "section_zh": "九、末端执行器与应用场景",
+    "english": "Culture, tourism, and display scenarios also have demand. Some customers buy robots for clubs, showrooms, or stage displays, and they use remote control to create interactive movements. These customers may not need the full secondary-development package; they care more about the look, the interaction, and whether the demo feels impressive in person.",
+    "literal_zh": "文旅和展示场景也有需求。有些客户买机器人就是用来做会所、展厅或舞台展示，通过遥控完成互动动作。这类客户不一定需要完整二开能力，更看重外观、互动和演示效果。",
+    "audio": null
+  },
+  {
+    "id": 53,
+    "speaker": "Xingchen",
+    "section": "After-Sales, Certifications, and Overseas Compliance",
+    "section_zh": "十、售后、认证与海外合规",
+    "english": "For after-sales service, if the robot breaks, it can be shipped back for repair. If it is still under warranty, we cover the related shipping costs, and the warranty period is one year. Honestly, after-sales agreements are pretty similar across companies, but shipping a robot this size back and forth is definitely inconvenient. So for some issues, we can also send people on site, depending on what kind of problem it is.",
+    "literal_zh": "售后方面，如果机器人坏了，可以寄回来维修。如果在保修期内，我们承担相关运费，保修期是一年。售后协议其实各家都差不多。不过这么大一台机器来回寄确实麻烦，所以有些问题我们也可以派人到现场处理，具体要看问题类型。",
+    "audio": null
+  },
+  {
+    "id": 54,
+    "speaker": "Xingchen",
+    "section": "After-Sales, Certifications, and Overseas Compliance",
+    "section_zh": "十、售后、认证与海外合规",
+    "english": "Many after-sales issues can be solved through online guidance, especially configuration, interface, or operation problems. For customers in other cities, whether we ask them to ship the robot back or send someone on site depends on how complex the issue is.",
+    "literal_zh": "很多售后问题可以通过线上指导解决，比如配置、接口或操作问题。对于异地客户，到底是寄修还是上门，要看问题复杂度。",
+    "audio": null
+  },
+  {
+    "id": 55,
+    "speaker": "Xingchen",
+    "section": "After-Sales, Certifications, and Overseas Compliance",
+    "section_zh": "十、售后、认证与海外合规",
+    "english": "For overseas markets, we have not fully built out an overseas after-sales system yet. A French customer previously bought an S1 to replace part of a production process in his factory. We delivered the robot in China, and then he arranged his own freight forwarder to ship it overseas. Because overseas certification and compliance are not fully completed yet, overseas pricing and delivery methods will be different from domestic ones.",
+    "literal_zh": "海外方面，我们目前还没有完全建立海外售后体系。之前有一个法国客户买了一台 S1，用来替代工厂里的部分生产环节。他是在国内交货，然后自己找货代运出去。因为海外认证和合规流程还没有完全完成，所以海外售价和交付方式会和国内不同。",
+    "audio": null
+  },
+  {
+    "id": 56,
+    "speaker": "Xingchen",
+    "section": "After-Sales, Certifications, and Overseas Compliance",
+    "section_zh": "十、售后、认证与海外合规",
+    "english": "For certifications, the full robot has not completed explosion-proof, dust-proof, or water-proof certification yet. For key components like batteries, we require compliance certificates when purchasing them, but that does not mean the whole robot has completed every industrial certification. So if the robot is going into factories, chemical sites, outdoor environments, or other high-protection scenarios, we need to confirm the certification requirements case by case.",
+    "literal_zh": "认证方面，目前整机还没有完成防爆、防尘、防水认证。电池等关键部件采购时会要求合格证明，但这不等于整机已经完成全部工业认证。所以如果进入工厂、化工、户外或高防护等级场景，还需要进一步确认认证要求。",
+    "audio": null
+  },
+  {
+    "id": 57,
+    "speaker": "Xingchen",
+    "section": "After-Sales, Certifications, and Overseas Compliance",
+    "section_zh": "十、售后、认证与海外合规",
+    "english": "Overseas data compliance is actually a lot like phones going global. The key issues are privacy and data compliance. Directly exporting domestic data to Europe or the U.S. can create compliance risk, but trained skills, model capabilities, or app capabilities can still be exported in a compliant way.",
+    "literal_zh": "出海的数据合规问题，和手机出海很像。核心问题是隐私和数据合规。国内数据直接出口到欧美地区会有合规风险，但已经训练好的技能、模型能力或应用能力，可以通过合规方式输出。",
+    "audio": null
+  },
+  {
+    "id": 58,
+    "speaker": "Xingchen",
+    "section": "After-Sales, Certifications, and Overseas Compliance",
+    "section_zh": "十、售后、认证与海外合规",
+    "english": "For example, if I buy a robot and send it to the U.S. to cook three dishes, what I really need is not the raw data; what I need is the trained skill. The premise is that the robot's generalization and autonomy are already good enough to use, so it does not need to collect a huge amount of extra data. Of course, by that stage, the robot may still collect some data, but it can be processed locally through U.S. servers or U.S.-based cloud services. Phones work in a similar way, and Apple's data center in Guizhou was also about meeting compliance requirements.",
+    "literal_zh": "比如我买了一台机器人，让它去美国炒三道菜，我需要的不是原始数据，而是已经训练好的技能。这里的前提是，机器人的泛化能力和自主能力已经达到可用程度，不需要再额外收集大量数据。当然，到那个阶段，机器人可能仍然会收集一部分数据，但可以在美国部署服务器或购买云服务，在美国本地处理。手机也是类似逻辑，苹果在贵州设数据中心，也是为了解决合规问题。",
+    "audio": null
+  },
+  {
+    "id": 59,
+    "speaker": "Xingchen",
+    "section": "Future Cooperation and Shenzhen Supply-Chain Advantage",
+    "section_zh": "十一、后续合作与深圳供应链优势",
+    "english": "If you want to build a robot operating system or a robot app ecosystem in the future, our robot could be one of the hardware bases. That direction actually matches our thinking pretty well: hardware body, operating system, and app ecosystem.",
+    "literal_zh": "如果你们未来想做机器人操作系统或机器人应用生态，我觉得我们家的机器人可以作为硬件底座之一。我们在“硬件本体 + 操作系统 + 应用生态”这个方向上的思路比较接近。",
+    "audio": null
+  },
+  {
+    "id": 60,
+    "speaker": "Xingchen",
+    "section": "Future Cooperation and Shenzhen Supply-Chain Advantage",
+    "section_zh": "十一、后续合作与深圳供应链优势",
+    "english": "In the short term, if you only buy one or two robots, it probably will not pull in a lot of R&D resources from our company. But if we confirm product fit and define a clearer cooperation direction, I can help push things forward internally. That means bringing in our R&D team, model team, and after-sales team so we can have a deeper conversation with you.",
+    "literal_zh": "短期内，如果你们只采购一两台机器人，可能不会撬动公司太多研发资源。但如果确认产品适配，并且形成更明确的合作方向，我可以推动公司研发、模型、售后等团队和你们做更深入的交流。",
+    "audio": null
+  },
+  {
+    "id": 61,
+    "speaker": "Xingchen",
+    "section": "Future Cooperation and Shenzhen Supply-Chain Advantage",
+    "section_zh": "十一、后续合作与深圳供应链优势",
+    "english": "I think your team will probably set up a team in Shenzhen later, and the reason is simple. Shenzhen has lower manufacturing costs and an incredibly dense supply chain. Within a ten-kilometer radius, you can source a huge share of the parts needed to build a robot, and that is hard for Shanghai, Hangzhou, or Beijing to match. For robot hardware development and fast iteration, Shenzhen is just a better place to get things built quickly.",
+    "literal_zh": "我觉得你们团队后面大概率也会在深圳成立团队。原因很简单：深圳制造成本低，供应链密度高。方圆十公里内，做一台机器人所需的大量零部件基本都能配齐。上海、杭州、北京很难做到这一点。对于机器人硬件开发和快速迭代来说，深圳的供应链环境更适合落地。",
+    "audio": null
+  }
+]
