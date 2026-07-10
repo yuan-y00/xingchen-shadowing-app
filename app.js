@@ -115,7 +115,7 @@ function updateProgress() {
 function updateHintText() {
   if (!els.hintPanel) return;
   els.hintPanel.textContent =
-    "Listen first -> press Space to switch to the next sentence.";
+    "Listen first -> press Space to stop this one and play the next sentence.";
 }
 
 function sentenceCard(id) {
@@ -280,14 +280,14 @@ function finishPlaying() {
   refreshCards();
 }
 
-function playSentence(index = state.currentIndex) {
+function playSentence(index = state.currentIndex, options = {}) {
   if (!state.sentences[index]) return;
-  stopPlayback();
+  if (!options.skipStop) stopPlayback();
 
   state.currentIndex = index;
   const item = state.sentences[index];
   state.mode = "playing";
-  setStatus(`Playing sentence ${item.id}. Press Space to switch to the next sentence.`);
+  setStatus(`Playing sentence ${item.id}. Press Space to stop this one and play the next sentence.`);
   refreshCards();
   scrollToCurrent();
   saveProgress();
@@ -342,7 +342,7 @@ function toggleComplete(id) {
   saveProgress();
 }
 
-function moveToNextAndPlay() {
+function moveToNextAndPlay(options = {}) {
   const nextIndex = state.currentIndex + 1;
   if (nextIndex >= state.sentences.length) {
     state.autoPractice = false;
@@ -351,7 +351,7 @@ function moveToNextAndPlay() {
     refreshCards();
     return;
   }
-  playSentence(nextIndex);
+  playSentence(nextIndex, options);
 }
 
 function switchToNextSentence() {
@@ -359,7 +359,14 @@ function switchToNextSentence() {
   const item = state.sentences[state.currentIndex];
   if (item) markComplete(item.id);
   state.autoPractice = true;
-  moveToNextAndPlay();
+  stopPlayback();
+  if (currentDataset().audioMode !== "tts") {
+    moveToNextAndPlay({ skipStop: true });
+    return;
+  }
+  window.setTimeout(() => {
+    moveToNextAndPlay({ skipStop: true });
+  }, 120);
 }
 
 async function loadDataset(key) {
@@ -419,7 +426,7 @@ els.rateSelect.addEventListener("change", () => {
 els.startBtn.addEventListener("click", () => {
   state.autoPractice = true;
   if (state.mode === "waiting") {
-    setStatus("Press Space to switch to the next sentence.");
+    setStatus("Press Space to stop this one and play the next sentence.");
     return;
   }
   playSentence(state.currentIndex);
