@@ -115,9 +115,7 @@ function updateProgress() {
 function updateHintText() {
   if (!els.hintPanel) return;
   els.hintPanel.textContent =
-    state.datasetKey === "xingchen"
-      ? "Listen first -> press Space once to complete and play the next sentence."
-      : "Listen first -> hold Space to shadow -> release Space to complete -> next sentence plays automatically.";
+    "Listen first -> press Space to switch to the next sentence.";
 }
 
 function sentenceCard(id) {
@@ -278,11 +276,7 @@ function finishPlaying() {
   const item = state.sentences[state.currentIndex];
   if (!item || state.mode !== "playing") return;
   state.mode = "waiting";
-  setStatus(
-    state.datasetKey === "xingchen"
-      ? `Sentence ${item.id} finished. Press Space for the next sentence.`
-      : `Sentence ${item.id} finished. Hold Space to shadow, then release to continue.`,
-  );
+  setStatus(`Sentence ${item.id} finished. Press Space for the next sentence.`);
   refreshCards();
 }
 
@@ -293,11 +287,7 @@ function playSentence(index = state.currentIndex) {
   state.currentIndex = index;
   const item = state.sentences[index];
   state.mode = "playing";
-  setStatus(
-    state.datasetKey === "xingchen"
-      ? `Playing sentence ${item.id}. Listen first, then press Space once for the next sentence.`
-      : `Playing sentence ${item.id}. Listen first, then hold Space to shadow.`,
-  );
+  setStatus(`Playing sentence ${item.id}. Press Space to switch to the next sentence.`);
   refreshCards();
   scrollToCurrent();
   saveProgress();
@@ -364,6 +354,14 @@ function moveToNextAndPlay() {
   playSentence(nextIndex);
 }
 
+function switchToNextSentence() {
+  if (state.mode === "loading" || !state.sentences.length) return;
+  const item = state.sentences[state.currentIndex];
+  if (item) markComplete(item.id);
+  state.autoPractice = true;
+  moveToNextAndPlay();
+}
+
 async function loadDataset(key) {
   if (!datasets[key]) return;
   stopPlayback();
@@ -421,11 +419,7 @@ els.rateSelect.addEventListener("change", () => {
 els.startBtn.addEventListener("click", () => {
   state.autoPractice = true;
   if (state.mode === "waiting") {
-    setStatus(
-      state.datasetKey === "xingchen"
-        ? "Press Space once to complete the current sentence and play the next one."
-        : "Hold Space to shadow the current sentence.",
-    );
+    setStatus("Press Space to switch to the next sentence.");
     return;
   }
   playSentence(state.currentIndex);
@@ -467,20 +461,9 @@ document.addEventListener("keydown", (event) => {
     return;
   }
   event.preventDefault();
-  if (state.isSpaceDown || state.mode !== "waiting") return;
-
-  if (state.datasetKey === "xingchen") {
-    const item = state.sentences[state.currentIndex];
-    if (item) markComplete(item.id);
-    state.autoPractice = true;
-    moveToNextAndPlay();
-    return;
-  }
-
+  if (state.isSpaceDown) return;
   state.isSpaceDown = true;
-  state.mode = "recording";
-  setStatus("Shadowing... release Space when you are done.");
-  refreshCards();
+  switchToNextSentence();
 });
 
 document.addEventListener("keyup", (event) => {
@@ -494,19 +477,7 @@ document.addEventListener("keyup", (event) => {
     return;
   }
   event.preventDefault();
-  if (!state.isSpaceDown || state.mode !== "recording") return;
-
   state.isSpaceDown = false;
-  const item = state.sentences[state.currentIndex];
-  if (item) markComplete(item.id);
-
-  if (state.autoPractice) {
-    moveToNextAndPlay();
-  } else {
-    state.mode = "idle";
-    setStatus("Marked complete. Play another sentence or press Start Practice.");
-    refreshCards();
-  }
 });
 
 async function init() {
