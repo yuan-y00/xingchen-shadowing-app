@@ -1,0 +1,1818 @@
+[
+  {
+    "id": 1,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 1",
+    "english": "Thanks for joining us. We'd love to learn more about you. Could you start by telling us a bit about yourself?",
+    "literal_zh": "感谢你参加这次访谈。我们想多了解一下你。你可以先简单介绍一下自己吗？",
+    "audio": null
+  },
+  {
+    "id": 2,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "Sure. Ask me anything you want.",
+    "literal_zh": "当然。你们想问什么都可以。",
+    "audio": null
+  },
+  {
+    "id": 3,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 1",
+    "english": "Let's start with your training background. And I realize I should ask first: what's your name?",
+    "literal_zh": "我们先从你的训练背景聊起。另外我刚意识到应该先问一下：你叫什么名字？",
+    "audio": null
+  },
+  {
+    "id": 4,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "Oh yeah, sure. Let's see. I trained when I was a youngster at Joe Frazier's Boxing Gym in Philadelphia. I grew up in New Jersey. I'm 55 years old, by the way. I'm retired military, and I'm retired law enforcement. I retired from the Navy in 2015, and then I worked for ten years after that — from 2015 to 2025 — with the Brevard County Sheriff's Office down here.",
+    "literal_zh": "哦，对，当然。让我想想。我年轻的时候在费城的 Joe Frazier 拳馆训练过。我是在新泽西长大的。顺便说一下，我今年 55 岁。我是退役军人，也从执法系统退休了。我 2015 年从海军退役，之后又在这边的布里瓦德县警长办公室工作了十年，从 2015 年到 2025 年。",
+    "audio": null
+  },
+  {
+    "id": 5,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "I was classically trained as a boxer. I did box and I did compete a little bit as a youngster, but my dad didn't want me to pursue a career in boxing, so he kind of started steering me away from it and more towards other sports.",
+    "literal_zh": "我接受过传统拳击训练。年轻的时候我确实打过拳，也参加过一些比赛，但我父亲不希望我走职业拳击这条路，所以他慢慢把我从拳击引开，让我更多去参加其他运动。",
+    "audio": null
+  },
+  {
+    "id": 6,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "But boxing — it's always been something that just… it really… I love boxing because it combines cardiovascular work, muscle work, short anaerobic training as well as aerobic training. You have to have wind, you have to have stamina, you have to have strength. Any form of boxing training can create a total physique.",
+    "literal_zh": "但拳击一直都是一种……它真的……我喜欢拳击，因为它结合了心肺训练、肌肉训练、短时间无氧训练和有氧训练。你必须有气息、有耐力、有力量。任何形式的拳击训练都能塑造一个全面的身体素质。",
+    "audio": null
+  },
+  {
+    "id": 7,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "Throughout my career, I was a Navy Rescue Swimmer and a helicopter crew chief. Then when the war started, I worked with the Counter-IED Task Force. I was assigned to the Army and worked with them in Afghanistan and Iraq — helping on the road, making sure people didn't blow up, all that kind of stuff.",
+    "literal_zh": "在我的职业生涯里，我曾经是海军救援游泳员，也是直升机机组长。后来战争开始后，我加入了反简易爆炸装置特遣队。我被派到陆军那边，和他们一起在阿富汗和伊拉克工作，在路线上提供支援，确保人员不会被炸到，诸如此类的事情。",
+    "audio": null
+  },
+  {
+    "id": 8,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "In that time, when I was a rescue swimmer instructor, we would talk to people about getting in shape for rescue swimmer school — it was the third toughest training in the Navy. We would talk about boxing, and we would talk about finding a boxing gym, things like that.",
+    "literal_zh": "那段时间里，当我担任救援游泳员教官时，我们会跟别人聊如何为救援游泳员学校做好体能准备——那是海军里第三艰苦的训练。我们会聊拳击，也会聊怎么找拳馆之类的事情。",
+    "audio": null
+  },
+  {
+    "id": 9,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "The only problem that I've ever seen with boxing is, if you don't belong to a gym, it's very hard to train on your own. You can train on your own, but mitt work and counterpunching and all those fun things that you want to improve upon — it can get a little tedious, hitting the bag all the time.",
+    "literal_zh": "我一直觉得拳击唯一的问题是，如果你不属于某个拳馆，自己训练会很难。你可以自己训练，但手靶训练、反击训练，以及那些你真正想提升的有意思的东西，如果只能一直打沙袋，就会变得有点枯燥。",
+    "audio": null
+  },
+  {
+    "id": 10,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "So one of the things that I've done in my retirement is I joined FightCamp. I use that program — it's kind of interactive, and I really think that is a great program. I wish FightCamp and Peloton would kind of combine forces, because the idea of Peloton where you can go to classes and you can interact and train with instructors, but physically from your house — that's a great idea.",
+    "literal_zh": "所以我退休后做的一件事就是加入 FightCamp。我在用那个项目，它有一定互动性，我真的觉得那是个很棒的项目。我希望 FightCamp 和 Peloton 能某种程度上结合起来，因为 Peloton 的理念是你可以上课，可以互动，可以跟教练训练，但身体上是在自己家里完成，这个想法非常好。",
+    "audio": null
+  },
+  {
+    "id": 11,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "FightCamp did a really great job of creating a Facebook community. You can compare your results, you can kind of compete with other people, you can compete with the averages, and you can measure your progress. I think measuring progress is very important to people in this generation, because they want to be able to see via data what they're doing. You don't always see it physically right off the bat, but if you're starting to see that you're doing really well or that you're improving, it's really important.",
+    "literal_zh": "FightCamp 在建立 Facebook 社群方面做得很好。你可以比较自己的成绩，可以和别人有点竞争，也可以和平均水平竞争，还能衡量自己的进步。我觉得对这一代人来说，衡量进步非常重要，因为他们希望通过数据看到自己在做什么。身体上的变化不一定马上能看出来，但如果你开始看到自己表现很好，或者看到自己正在进步，那就非常重要。",
+    "audio": null
+  },
+  {
+    "id": 12,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "FightCamp really created a great community, and they found really great instructors to work with you and to do these training videos. They have a program that takes people from \"never picked up a pair of boxing gloves in their life\" to being able to throw multi-punch combinations and things like that.",
+    "literal_zh": "FightCamp 确实建立了一个很棒的社群，而且找到了非常优秀的教练来带你训练、录制这些训练视频。他们有一套课程，可以把一个“一辈子都没拿过拳套”的人，带到能够打出多拳组合之类的水平。",
+    "audio": null
+  },
+  {
+    "id": 13,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "But again, one of the downsides is counterpunching and mitt work — those are a bit challenging. You have to find different pieces of equipment to do those things.",
+    "literal_zh": "但还是一样，其中一个缺点就是反击训练和手靶训练，这些比较难。你必须找不同的设备来做这些事情。",
+    "audio": null
+  },
+  {
+    "id": 14,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "Regarding pricing — the monthly membership is a little more than I like to spend, but at the same time I consider it to be a good value.",
+    "literal_zh": "关于价格，月费比我愿意花的稍微高一点，但同时我也认为它物有所值。",
+    "audio": null
+  },
+  {
+    "id": 15,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "The other thing I did was I bought the Nexersys system — the interactive system with the computer screen. I call it the \"Fight Bot.\" I don't know if you've ever seen one of those.",
+    "literal_zh": "我做的另一件事是买了 Nexersys 系统，就是带电脑屏幕的互动系统。我叫它“Fight Bot”。不知道你们有没有见过那种东西。",
+    "audio": null
+  },
+  {
+    "id": 16,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 1",
+    "english": "Wait, could we see it right now?",
+    "literal_zh": "等一下，我们现在可以看一下吗？",
+    "audio": null
+  },
+  {
+    "id": 17,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "It's in the garage. You'll have to excuse the mess, I've been working on my car and stuff. (shows the machine) That's the Nexersys machine. It's very interactive, very, very cool, because it provides data as well as that interactive element. One of the things they did was kind of create a sparring sequence where you're ducking — and the computer screen is far enough away so you don't have to worry about hitting it — but at the same time you can kind of use that virtual sparring partner to work and do that kind of thing.",
+    "literal_zh": "它在车库里。你们得原谅一下有点乱，我最近一直在修车之类的。(展示机器) 这就是 Nexersys 机器。它互动性很强，非常非常酷，因为它既提供数据，也提供互动元素。他们做的一件事是设计了一种类似实战对练的序列，你需要下潜躲闪——电脑屏幕离得够远，所以你不用担心打到屏幕——但同时你又可以把那个虚拟陪练当作对手来训练，做那类动作。",
+    "audio": null
+  },
+  {
+    "id": 18,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 1",
+    "english": "That machine looks really interesting. Do you have a manual or any information about it? I'm curious how it works.",
+    "literal_zh": "那台机器看起来很有意思。你有说明书或相关资料吗？我很好奇它是怎么工作的。",
+    "audio": null
+  },
+  {
+    "id": 19,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "Oh, sure. It's by a company called Nexersys. I can send you all the information. I don't have the instruction manual handy, but what I can do is, later on this week when I'm doing a workout, I can shoot a video and then I can email it to you.",
+    "literal_zh": "哦，当然。它是一家叫 Nexersys 的公司做的。我可以把所有信息发给你们。我手边没有说明书，但我可以这样做：这周晚些时候我训练的时候，拍一段视频，然后发邮件给你们。",
+    "audio": null
+  },
+  {
+    "id": 20,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 1",
+    "english": "That would be amazing. Honestly, it looks a little like our JabX, almost like a related product.",
+    "literal_zh": "那太好了。说实话，它看起来有点像我们的 JabX，像是相关类型的产品。",
+    "audio": null
+  },
+  {
+    "id": 21,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "It's a similar product, but it's by a company called Nexersys. Generally speaking, you don't find those in people's homes very often. I'm just ridiculously silly about things — if I want it, I don't want to have to go to a gym to use it. I'm a home gym kind of guy. A lot of that is just because when you're in the military, you spend so much time training with other people that you just want to train by yourself. You don't want to do group PT, you don't want to do that kind of thing. Although I do see the advantages of going to a gym, I prefer to train at home, because my gym is ten feet that way — I just go outside and go to work.",
+    "literal_zh": "它是类似的产品，但来自一家叫 Nexersys 的公司。一般来说，你不太会在普通人家里看到这种东西。我对这些东西就是有点离谱地执着——如果我想用它，我就不想为了用它还得去健身房。我是那种家庭健身房型的人。很大一部分原因是，当你在军队里时，你花了太多时间和别人一起训练，所以你会只想自己训练。你不想做集体体能训练，不想搞那种东西。虽然我确实看得到去健身房的好处，但我更喜欢在家训练，因为我的健身房就在那边十英尺外——我直接出去就能开练。",
+    "audio": null
+  },
+  {
+    "id": 22,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 1",
+    "english": "Since you brought up FightCamp, I have to ask: roughly how much did that whole setup cost?",
+    "literal_zh": "既然你提到了 FightCamp，我想问一下：整套设备大概花了多少钱？",
+    "audio": null
+  },
+  {
+    "id": 23,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "The Nexersys machine was about $4,000. The FightCamp setup — because it included a heavy bag, the sensors, and that's what's really kind of neat about FightCamp, they have the velocity sensors — the sensors that show your punching power and all that kind of stuff, the interactive feedback — all of that was about $2,500 for the bag, the sensors, and some of the other stuff. The nice thing was I was able to finance it through Afterpay, so I just kind of paid monthly for 24 months, and I didn't really worry about it too much.",
+    "literal_zh": "Nexersys 机器大概 4000 美元。FightCamp 那套，因为包含重沙袋、传感器，而且 FightCamp 很有意思的一点就是他们有速度传感器，那些传感器能显示你的出拳力量等等，还有互动反馈。沙袋、传感器以及其他一些东西加起来大概 2500 美元。好处是我可以通过 Afterpay 分期，所以我就差不多按月付了 24 个月，也没太担心。",
+    "audio": null
+  },
+  {
+    "id": 24,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "The only thing that I think is a little pricey is the monthly — I think $49 a month is a little much. Again, if it's the only thing you're doing, I could see that. But I train in different aspects — I do calisthenics and bodyweight work and things like that. For the most part, I think they could have done a little better on that price. But again, if you offer financing, people like me will buy it. We're just that way. It's like, I want to be able to train in my house.",
+    "literal_zh": "我唯一觉得有点贵的是月费——我觉得每月 49 美元有点多。当然，如果这是你唯一在做的训练，我能理解。但我会做不同方面的训练，比如健身操、自重训练等等。总体来说，我觉得他们在价格上本可以做得更好。不过话说回来，只要你提供分期，像我这样的人就会买。我们就是这样。我想要能够在自己家里训练。",
+    "audio": null
+  },
+  {
+    "id": 25,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "One of the neat things I saw was the JabX machine — when I was looking at it, the fact that you had arms that kind of move, I think that's really going to be helpful. If they're moving and we can practice interactive — because that mitt work, that interacting with the machine, is very helpful. I don't know how far along you guys are with that, but it's definitely something that I think would do really well for people like myself.",
+    "literal_zh": "我看到 JabX 机器时觉得很有意思的一点是，你们有会动的手臂。我觉得这会非常有帮助。如果它们能动，我们就能做互动练习，因为手靶训练、和机器互动这种东西非常有帮助。我不知道你们现在做到什么程度了，但我确实觉得这类东西会很适合像我这样的人。",
+    "audio": null
+  },
+  {
+    "id": 26,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 1",
+    "english": "People who want to train — and the other thing is, you could start looking at places like Planet Fitness and places like that, where somebody wants to do boxing training and the only thing there is a heavy bag. If you put that machine in there — I think people would get memberships just because the gym had that machine. Because then we can do interactive boxing training without having to join a boxing gym. We can go to Planet Fitness, get our workout in, and then go. I call the Nexersys my \"Fight Bot\" — I would probably call this the same thing — and just go there and get a great workout on top of everything else.",
+    "literal_zh": "对于想训练的人来说，另一点是，你们可以开始考虑 Planet Fitness 这类地方。有人想做拳击训练，但那里唯一有的就是一个重沙袋。如果你们把这台机器放进去，我觉得人们会仅仅因为健身房有这台机器就办会员。因为这样我们就可以做互动式拳击训练，而不必加入真正的拳馆。我们可以去 Planet Fitness，完成训练，然后离开。我把 Nexersys 叫作我的“Fight Bot”——我可能也会把这个叫同样的名字——然后去那里，在其他训练之外再完成一次很棒的训练。",
+    "audio": null
+  },
+  {
+    "id": 27,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 2",
+    "english": "Since you're really focused on home-gym training, I want to ask about space. Our JabX is about 16 feet across. Would that be a dealbreaker?",
+    "literal_zh": "既然你很重视家庭健身房训练，我想问一下空间问题。我们的 JabX 宽大约 16 英尺，这会不会成为一个决定性障碍？",
+    "audio": null
+  },
+  {
+    "id": 28,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 2",
+    "english": "16 feet might be a little hard. I have a one-car garage, so I would have to convert my one-car garage into my gym — which is what a lot of people do. If you look at YouTube, there are a lot of people who will take a two-car garage and just turn it into a home gym.",
+    "literal_zh": "16 英尺可能会有点困难。我的是单车位车库，所以我得把这个单车位车库改成健身房——很多人确实会这么做。你去 YouTube 上看，有很多人会把双车位车库直接改成家庭健身房。",
+    "audio": null
+  },
+  {
+    "id": 29,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 2",
+    "english": "But what a lot of people really like is things like the Mirror — I don't know if you've ever heard of that — where it's on the wall, and things that can be retracted or made smaller when they're not in use. Nobody minds setting up, I mean, it takes me about 15 to 20 minutes to set up for a workout because I've got a mat, I've got to hang the bags, I've got to do all that kind of stuff. I don't mind doing that — I call that my \"commute to the gym.\" I go set up all my equipment and then I start working out.",
+    "literal_zh": "但很多人真正喜欢的是像 Mirror 这样的东西——不知道你们有没有听过——它装在墙上，或者是不用的时候可以收起来、变小的东西。没人介意做一点准备。我的意思是，我每次训练前大概需要 15 到 20 分钟布置，因为我要铺垫子，要挂沙袋，要做这些事情。我不介意这么做——我把这叫作我的“去健身房通勤”。我去把所有设备布置好，然后开始训练。",
+    "audio": null
+  },
+  {
+    "id": 30,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 2",
+    "english": "But yeah, 16 feet might be a little big. I'm not saying it's too big — somebody with a two-car garage, yes. But they would have to prioritize, they would have to say, \"Okay, this is going to be the thing I'm doing the most,\" versus having that as one of several pieces of equipment.",
+    "literal_zh": "但对，16 英尺可能有点大。我不是说它太大——如果有人有双车位车库，那可以。但他们必须做优先级选择，他们得说：“好，这会是我最常用的东西”，而不是把它当成众多设备之一。",
+    "audio": null
+  },
+  {
+    "id": 31,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 2",
+    "english": "Again, if you're looking at boxers — guys who enjoy boxing and guys who enjoy training — you go in their garage, there's a heavy bag hanging in the middle of it, there's a speed bag in the corner. Boxing equipment is just generally going to take up space. You're not going to have the convenience of opening your closet and pulling out your little NordicTrack, because if you want to box, it's just not that way.",
+    "literal_zh": "再说，如果你们看拳击爱好者——那些喜欢拳击、喜欢训练的人——你走进他们车库，中间会挂着一个重沙袋，角落里会有一个速度球。拳击设备通常就是会占地方。你不会像打开衣柜拿出一台小 NordicTrack 那样方便，因为如果你想练拳击，它就不是那样的。",
+    "audio": null
+  },
+  {
+    "id": 32,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 2",
+    "english": "We were thinking about whether wheels might help with storage or movement, but we're not sure whether that would actually be useful.",
+    "literal_zh": "我们在考虑轮子是否能帮助收纳或移动，但还不确定这是否真的有用。",
+    "audio": null
+  },
+  {
+    "id": 33,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 2",
+    "english": "The machine that I just showed you, the Nexersys machine — that doesn't move. It's very heavy, because it has to be heavy in order for it not to walk while you're punching. It's pretty stable. I wouldn't say wheels would be necessary, but definitely if it could save space when it's not in use, that might be a selling point. I don't know.",
+    "literal_zh": "我刚才给你们看的那台 Nexersys 机器是不会移动的。它非常重，因为它必须重，这样你出拳时它才不会自己跑。它相当稳定。我不会说轮子是必要的，但如果它在不用的时候能节省空间，那绝对可能成为一个卖点。我也不确定。",
+    "audio": null
+  },
+  {
+    "id": 34,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 3",
+    "english": "How long have you been using that Fight Bot, and what does a typical session look like? Is it 10 minutes, an hour, or something more intense?",
+    "literal_zh": "你用了那台 Fight Bot 多久？一次典型训练大概是什么样的？是 10 分钟、一小时，还是更高强度？",
+    "audio": null
+  },
+  {
+    "id": 35,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 3",
+    "english": "I'm usually doing a 30-minute workout on that, and then I do a 20-minute workout with FightCamp. So I'll do a cardio or calisthenic workout, and then I'll do 20 minutes on FightCamp. When I finish that workout, then I'll do 30 minutes on that machine in 3-minute rounds — so I'll do 10 or 12 three-minute rounds. And then in between those 3-minute rounds, I'll go hit the speed bag, I'll go hit the double-end bag — those various other things.",
+    "literal_zh": "我通常会在那台机器上做 30 分钟训练，然后用 FightCamp 做 20 分钟。所以我会先做心肺或者健身操训练，然后在 FightCamp 上做 20 分钟。完成之后，我会在那台机器上按 3 分钟一回合做 30 分钟，也就是做 10 到 12 个三分钟回合。然后在这些三分钟回合之间，我会去打速度球，打双端球，还有其他各种东西。",
+    "audio": null
+  },
+  {
+    "id": 36,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 3",
+    "english": "You train every day?",
+    "literal_zh": "你每天都训练吗？",
+    "audio": null
+  },
+  {
+    "id": 37,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 3",
+    "english": "I'm pretty much a daily guy. I run every day, I swim every day, and then I work out about 3 to 4 times a week — usually Monday, Wednesday, Friday, or Tuesday, Thursday, Saturday. You know, just trying to stay in shape at 55. You've got to keep moving, you've got to move fast.",
+    "literal_zh": "我基本上是每天都动的人。我每天跑步，每天游泳，然后每周大概训练 3 到 4 次，通常是周一、周三、周五，或者周二、周四、周六。你知道，就是 55 岁还想保持身材。你必须一直动，而且要动得快。",
+    "audio": null
+  },
+  {
+    "id": 38,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 3",
+    "english": "That is impressive. You look in great shape, so your current training routine seems to be working.",
+    "literal_zh": "这很厉害。你看起来状态很好，说明你现在的训练方式确实有效。",
+    "audio": null
+  },
+  {
+    "id": 39,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 3",
+    "english": "Well, thank you. Thank you, I appreciate it.",
+    "literal_zh": "嗯，谢谢。谢谢你，我很感激。",
+    "audio": null
+  },
+  {
+    "id": 40,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 4",
+    "english": "What is your home setup like? Do you live with a partner, kids, or roommates, or is it mainly you and the training equipment?",
+    "literal_zh": "你家里的情况是怎样的？有伴侣、孩子或室友吗？还是主要就是你和训练设备？",
+    "audio": null
+  },
+  {
+    "id": 41,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 4",
+    "english": "It's just me and my dog. Her name is Eva. (to the dog) Eva, people are talking to you, pay attention.",
+    "literal_zh": "就我和我的狗。她叫 Eva。(对狗说) Eva，有人在跟你说话呢，注意听。",
+    "audio": null
+  },
+  {
+    "id": 42,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 4",
+    "english": "Does Eva join any of the training, or is she mainly your running partner?",
+    "literal_zh": "Eva 会参与训练吗，还是主要陪你跑步？",
+    "audio": null
+  },
+  {
+    "id": 43,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 4",
+    "english": "No, she runs with me, though. She runs with me in the mornings.",
+    "literal_zh": "不会，不过她会跟我一起跑步。早上她会跟我一起跑。",
+    "audio": null
+  },
+  {
+    "id": 44,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 5",
+    "english": "Do you ever invite friends over for boxing sessions, or do you mostly train by yourself?",
+    "literal_zh": "你会邀请朋友来一起练拳吗，还是主要自己训练？",
+    "audio": null
+  },
+  {
+    "id": 45,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 5",
+    "english": "Pretty much solo. A lot of people get a little intimidated by boxing — a lot of people, they either get into it or they don't. Most of the guys I know, they like to go to the gym and push the weights, and that's what they do, and that's fine with me. But that's not how I was raised. You know, I was raised to be ready.",
+    "literal_zh": "基本都是单练。很多人会被拳击吓到一点，很多人要么喜欢上它，要么完全不碰。我认识的大多数人喜欢去健身房推铁，他们就做那个，我觉得也没问题。但我不是那样成长起来的。你知道，我从小被教育的是要随时准备好。",
+    "audio": null
+  },
+  {
+    "id": 46,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 5",
+    "english": "One of the big slogans about CrossFit when it was in its heyday is, \"You're training for life.\" You're training to be ready, training to be physically ready for anything that life throws at you — work-wise, threat-wise, anything like that. One of the nice things about boxing is it gives you a skill set. Even if you've never stepped in the ring and boxed with anybody — if you know how to throw an effective punch, or if you know how to counterpunch, or you know how to do these things, in a panic situation instinct will take over and you will be able to probably survive that situation.",
+    "literal_zh": "CrossFit 鼎盛时期有一句很大的口号是：“你是在为生活而训练。”你训练是为了准备好，让身体准备好应对生活中丢给你的任何事情——工作方面、威胁方面，或者任何类似情况。拳击很棒的一点是，它给你一套技能。即使你从来没有上过擂台和别人真正打过拳，只要你知道如何有效出拳，或者知道如何反击，知道如何做这些事情，在恐慌情境下本能就会接管，你很可能就能从那个情况中活下来。",
+    "audio": null
+  },
+  {
+    "id": 47,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 5",
+    "english": "My boxing skills have benefited me throughout my life. When I was in the military, it was really helpful. When I was in law enforcement, it was extremely helpful. Because most people don't know how to engage. They want to sit there and throw windmills, or they want to pretend like they watched a couple Bruce Lee movies and throw a kick or two. And if you know how to counterpunch, or you know how to actually throw a punch, and you've learned how to develop power — you can get out of a lot of situations with just one quick touch, or one or two quick punches. Many times in law enforcement, that has saved my life.",
+    "literal_zh": "我的拳击技能一生都让我受益。我在军队里的时候，它非常有帮助。我在执法系统工作时，它尤其有帮助。因为大多数人不知道如何真正交手。他们只会站在那里乱抡，或者假装自己看过几部李小龙电影，然后踢一两脚。如果你懂得如何反击，或者懂得如何真正出拳，而且学会了如何发力，那你用一次快速接触，或者一两记快拳，就能脱离很多情况。在执法工作中，这很多次救了我的命。",
+    "audio": null
+  },
+  {
+    "id": 48,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 5",
+    "english": "You're training for situations. You're training for being physically confident enough that you can handle anything. It can help you in your work, it can help you in your personal life. It can help you when you're walking to your car in the middle of the night and you're a little nervous — knowing that you've been punching that bag every day, or you've been working with that machine every day and you know how to throw an effective punch. Whatever happens, you could probably handle it. Probably do enough to get away from problems. That's what I've always told people. But I don't generally train with anybody — I just train by myself.",
+    "literal_zh": "你是在为各种情境训练。你是在训练自己拥有足够的身体自信，相信自己能处理任何情况。它能帮到你的工作，也能帮到你的个人生活。当你半夜走向自己的车、心里有点紧张时，它也能帮到你——因为你知道自己每天都在打沙袋，或者每天都在用那台机器训练，你知道如何有效出拳。不管发生什么，你大概都能应对。至少能做出足够的反应，让自己脱离麻烦。我一直都是这样告诉别人的。不过我通常不和别人一起练，我就是自己练。",
+    "audio": null
+  },
+  {
+    "id": 49,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 6",
+    "english": "Did you ever compete in the ring, with a referee and formal matches?",
+    "literal_zh": "你以前参加过正式拳击比赛吗？就是有裁判、在拳台上的那种。",
+    "audio": null
+  },
+  {
+    "id": 50,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 6",
+    "english": "I boxed a little bit as a youth — you know, 10, 12, 13 years old. I competed a little bit. My record was, I think, 5 and 4. It wasn't great. I was a Philadelphia fighter, which means we led with our faces. If you know anything about boxing, the Philadelphia fighter fights with their hands down. But I was never knocked out — got all TKOs and decisions. I did pretty well.",
+    "literal_zh": "我小时候打过一点拳，差不多 10 岁、12 岁、13 岁那会儿。我参加过一些比赛。我的战绩我记得大概是 5 胜 4 负。不算很好。我是费城风格拳手，意思就是我们用脸开路。如果你懂一点拳击，费城拳手是放低双手打的。但我从来没有被击倒过，那些结果都是技术性击倒或者判定。我打得还不错。",
+    "audio": null
+  },
+  {
+    "id": 51,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 6",
+    "english": "But again, when my dad started seeing that I was really enjoying it, he — not that he took it away from me — he just said, \"I want you to focus on other sports. I don't want you to become a professional boxer.\" Because we knew a couple of professional boxers, and he just didn't want the effects of that kind of thing. If you look at it, it's a very short career, or it can lead to some problems later on in life.",
+    "literal_zh": "但还是那样，当我父亲开始发现我真的很喜欢拳击时，他并不是把它从我身边拿走，而是说：“我希望你专注于其他运动。我不希望你成为职业拳手。”因为我们认识几个职业拳手，他不想让我承受那种影响。你看职业拳击，那是一个非常短暂的职业生涯，或者可能会在以后的人生里带来一些问题。",
+    "audio": null
+  },
+  {
+    "id": 52,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 6",
+    "english": "However, I played football, so I basically used my body as a human battering ram for eight years while I played football in high school and college. So it's the same thing — you just make collisions. It's the same concept.",
+    "literal_zh": "不过我打过橄榄球，所以我在高中和大学打橄榄球的八年里，基本上把自己的身体当成人肉攻城锤用。所以其实差不多，你就是不断碰撞。概念是一样的。",
+    "audio": null
+  },
+  {
+    "id": 53,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 6",
+    "english": "But I have always felt like boxing is something that you can do to develop great fitness and confidence in a lot of situations in life — especially as a man, or even as a woman — out in the world. If you know you can physically protect yourself, or you have this little tool in your toolbox, it gives you the ability to do things that you might not normally do — travel places you might not normally go. And it also gives you a lot of confidence because you're building something that people just don't really have. There's not a lot of boxers in the world. There should be more, because it's a great sport.",
+    "literal_zh": "但我一直觉得，拳击是一件能让你培养出很强体能和自信的事情，在生活中很多情境下都有用——尤其是作为男性，甚至女性也是一样，在这个世界上。如果你知道自己身体上可以保护自己，或者你工具箱里有这么一个小工具，它会让你有能力去做一些平常可能不会做的事，去一些平常可能不会去的地方。它也会给你很多自信，因为你在建立一种很多人并不真正拥有的东西。世界上的拳击手其实不多。应该有更多，因为这是一项很棒的运动。",
+    "audio": null
+  },
+  {
+    "id": 54,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 7",
+    "english": "Is boxing popular in Florida, or is it still a fairly niche activity?",
+    "literal_zh": "拳击在佛罗里达流行吗，还是仍然比较小众？",
+    "audio": null
+  },
+  {
+    "id": 55,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 7",
+    "english": "In Florida, there are three new boxing gyms that have opened up, but I don't know how long they'll last. I know there's a Mayweather Gym over in Rockledge, and then there's a Rock Box gym. But they're more kind of boutique boxing places, which is great — they're trying to attract a total marketplace.",
+    "literal_zh": "在佛罗里达，最近开了三家新的拳馆，但我不知道它们能坚持多久。我知道罗克利奇那边有一家 Mayweather Gym，还有一家 Rock Box。不过它们更像精品拳击馆，这也很好，它们是在努力吸引更广泛的市场。",
+    "audio": null
+  },
+  {
+    "id": 56,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 7",
+    "english": "The boxing gyms I trained in were sweaty, smelly, not climate-controlled, full of guys who were wanting to turn it into a career. But I think these boutique gyms are great, because people can get introduced to boxing and they can enjoy the benefits of the sport. Like I said, the benefits are just far-reaching. They reached so much further than just being able to throw a punch. You develop stamina, you develop wind, you develop that cardiovascular ability to be able to outlast a lot of people in many situations. It's helped me with swimming, you know, because I can hold my breath and all that kind of stuff. So when I swim, I know after a workout you've really put yourself through it. And it helps across the board, as far as I'm concerned.",
+    "literal_zh": "我当年训练的拳馆都是汗味很重、气味不好、没有空调的地方，里面全是想把拳击变成职业的人。但我觉得这些精品拳馆很好，因为人们可以通过它们接触拳击，享受这项运动带来的好处。就像我说的，它的好处影响很广。远远不只是会出拳。你会培养耐力，培养气息，培养心肺能力，让你在很多情况下比很多人坚持得更久。它也帮到了我的游泳，因为我能憋气，诸如此类。所以我游泳时知道，训练之后你是真的把自己逼了一把。在我看来，它对各方面都有帮助。",
+    "audio": null
+  },
+  {
+    "id": 57,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 8",
+    "english": "For JabX, should we lean more into the cardio angle, given that you run and swim, or should we keep the positioning more focused on pure boxing?",
+    "literal_zh": "对于 JabX 来说，考虑到你跑步和游泳，我们应该更强调心肺训练，还是更专注于纯拳击定位？",
+    "audio": null
+  },
+  {
+    "id": 58,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 8",
+    "english": "Well, I think — if one of the things I would say is, if you can focus on the counterpunching aspect, the moving, the body movements, and that kind of thing, I think that's really going to help.",
+    "literal_zh": "嗯，我觉得——如果要我说的话，如果你们能专注在反击、移动、身体动作这些方面，我觉得那会非常有帮助。",
+    "audio": null
+  },
+  {
+    "id": 59,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 8",
+    "english": "Cardio in general — you know, those 3-minute rounds where you're pushing yourself for three minutes, and you take a minute off, and you push yourself for another three minutes — that is amazing. And the farther you can go with that — because you're going to develop strength. It's just a natural byproduct. As you're throwing those punches with those 16-ounce gloves, you're going to develop what they call muscle endurance. And muscle endurance is always going to benefit you, in my opinion, more than just strength. Being able to do three reps of 200 pounds is not as important as muscular endurance, where you've thrown 5,000 punches with 16-ounce gloves on. Your muscles can handle things for much longer, and you personally can handle things for much longer. You can take that longer hike when you're on vacation, you can go do those things because you've been working your body and you developed that muscle endurance. That is a benefit that people overlook. People want to train for aesthetics, and they don't want to train for that overall ability to outlast. I always think that's important.",
+    "literal_zh": "心肺本身——你知道，那种 3 分钟一回合，你逼自己连续练三分钟，休息一分钟，再逼自己练三分钟——非常棒。而且你能在这个方向上走得越远越好，因为你会发展力量。这只是自然副产品。当你戴着 16 盎司拳套不断出拳时，你会发展出他们所谓的肌肉耐力。在我看来，肌肉耐力永远比单纯力量更能让你受益。能用 200 磅做三次，不如戴着 16 盎司拳套打出 5000 拳所形成的肌肉耐力重要。你的肌肉能承受更长时间，你本人也能承受更长时间。度假的时候你可以去走更长的徒步路线，可以去做那些事情，因为你一直在锻炼身体，并且发展出了这种肌肉耐力。这是人们忽视的一个好处。人们想为了外形训练，却不想为了那种整体的持久能力训练。我一直认为那很重要。",
+    "audio": null
+  },
+  {
+    "id": 60,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 9",
+    "english": "You mentioned Mayweather and Rock Box — have you actually stepped foot in either?",
+    "literal_zh": "你提到了 Mayweather 和 Rock Box，你真的去过其中任何一家吗？",
+    "audio": null
+  },
+  {
+    "id": 61,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 9",
+    "english": "The Mayweather Gym — yes, I've been to that one. I haven't been to the Rock Box over in Rockledge, it's relatively new, I haven't been over there. They're very… I would say, what's the word I'm looking for… unisex. They're catering to both men and women, they're catering to the family. It's a very family-oriented environment.",
+    "literal_zh": "Mayweather Gym——去过，我去过那家。我还没去过罗克利奇那边的 Rock Box，它比较新，我还没过去看过。它们非常……我该怎么说……偏男女皆宜。它们同时服务男性和女性，也服务家庭。那是非常面向家庭的环境。",
+    "audio": null
+  },
+  {
+    "id": 62,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 9",
+    "english": "I think very few people would be interested in going to the place that I went to, or there's a place down in Miami called the Hit Pit. It's like a CrossFit box — I don't know if you've ever been in a CrossFit gym. No air conditioning, it's usually a warehouse with hangar doors, and it's just bare bones. Some people don't go for that.",
+    "literal_zh": "我觉得很少有人会想去我以前去的那种地方，或者迈阿密有个地方叫 Hit Pit。它就像 CrossFit box 一样——不知道你们有没有去过 CrossFit 健身房。没有空调，通常是带大卷门的仓库，非常基础。有些人不吃这一套。",
+    "audio": null
+  },
+  {
+    "id": 63,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 9",
+    "english": "What I've seen with these new boxing gyms is they lead with cardio classes, there's all kinds of neat stuff going on. They're very much a kind of boutique boxing gym, and there's nothing wrong with that — I'm not judging it. But if you wanted to train to be a boxer, you would have to go down to one of those other gyms where there are coaches, and trainers, and people who are going to work with you on dealing with an opponent, as opposed to just general fitness.",
+    "literal_zh": "我在这些新拳馆里看到的是，它们主打心肺课程，有各种很有意思的东西。它们很明显是一种精品拳击馆，这没什么错——我不是在评判它。但如果你想训练成一个真正的拳手，你就得去那些别的拳馆，那里有教练、训练师，有人会和你一起练如何应对对手，而不只是一般健身。",
+    "audio": null
+  },
+  {
+    "id": 64,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 9",
+    "english": "You can throw a punch, you can do all kinds of cool stuff. I think Bruce Lee said, \"I'm never worried about a man who can throw 10,000 punches. I'm worried about the one man who's thrown one punch 10,000 times.\"",
+    "literal_zh": "你可以出拳，可以做各种很酷的动作。我记得李小龙说过：“我不怕会打一万种拳的人，我怕的是把一种拳练了一万次的人。”",
+    "audio": null
+  },
+  {
+    "id": 65,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 9",
+    "english": "Yes, I know that quote. It's such a classic.",
+    "literal_zh": "对，我知道那句话。那是一句很经典的话。",
+    "audio": null
+  },
+  {
+    "id": 66,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 9",
+    "english": "It's a very interesting concept. If you can throw a jab and a cross, and you've done that enough times, then that's all you're ever going to need.",
+    "literal_zh": "这是一个很有意思的概念。如果你会打刺拳和直拳，而且练过足够多次，那基本上就是你所需要的一切。",
+    "audio": null
+  },
+  {
+    "id": 67,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 9",
+    "english": "\"Be water, my friend.\"",
+    "literal_zh": "“像水一样，我的朋友。”",
+    "audio": null
+  },
+  {
+    "id": 68,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 9",
+    "english": "I'm a big fan. I'm a big fan.",
+    "literal_zh": "我是他的超级粉丝。真的很喜欢。",
+    "audio": null
+  },
+  {
+    "id": 69,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 9",
+    "english": "I trained in Arnis de Mano in college — the Filipino art — under Dr. Tim Sheehan, who was a student of Remy Presas. He was a big fan of keeping it simple — very simple stuff. But I always admired Bruce because he was willing to do what most martial arts instructors at the time wouldn't do, which is teach Gweilo — teach round-eyes. He was willing to teach anybody who was willing to listen, and he was looking at the art in a way that asked what makes sense and what doesn't.",
+    "literal_zh": "我大学时练过 Arnis de Mano——菲律宾武术——师从 Tim Sheehan 博士，他是 Remy Presas 的学生。他非常推崇保持简单，非常简单的东西。但我一直很佩服 Bruce，因为他愿意做当时大多数武术老师不愿意做的事，也就是教“鬼佬”、教白人。他愿意教任何愿意听的人，而且他看待武术的方式是不断问：什么有意义，什么没有意义。",
+    "audio": null
+  },
+  {
+    "id": 70,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 9",
+    "english": "His understanding of anatomy — and the fact that he was reading about Greco-Roman wrestling before the MMA scene came into play, and all the ground fighting and Jiu-Jitsu. He was studying Greco-Roman wrestling because he was asking, \"What happens if we fall on the ground? What do we do then?\" Well, Brazilian Jiu-Jitsu wasn't all there yet. He was an innovator — he was so far ahead of his time. It was amazing, and it was a tragedy when he died. We miss him.",
+    "literal_zh": "他对人体结构的理解，以及在 MMA 场景真正兴起之前、在地面格斗和柔术普及之前，他就已经在阅读希腊罗马摔跤的资料。他研究希腊罗马摔跤，是因为他在问：“如果我们摔到地上会怎样？那时我们该怎么办？”那时巴西柔术还没有完全进入视野。他是一个创新者，领先自己的时代太多了。那非常了不起，而他的离世也是一场悲剧。我们都很怀念他。",
+    "audio": null
+  },
+  {
+    "id": 71,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 10",
+    "english": "When you went to the Mayweather gym, was it busy, or was it fairly quiet?",
+    "literal_zh": "你去 Mayweather Gym 的时候，那里人多吗，还是比较安静？",
+    "audio": null
+  },
+  {
+    "id": 72,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 10",
+    "english": "When they were hosting the classes — like the 7 a.m. classes and the 5 p.m. classes, before people go to work or after people get home from work — it was busy. Very busy, for a while. I think they picked a location that was probably a little too expensive for the gym owner. Rather than find a location that might have been a little more out of the way, a little better priced — I think it was the cost of the building that was causing problems, because it was busy. They were getting members, and people were showing up and training.",
+    "literal_zh": "当他们开课的时候，比如早上 7 点的课和下午 5 点的课，也就是人们上班前或者下班后，那时很忙。曾经有一段时间非常忙。我觉得他们选的地点对馆主来说可能有点太贵了。他们没有找一个稍微偏一点、价格更合适的地方——我觉得问题是楼宇成本太高，因为它本身是有人气的。他们确实在获得会员，也有人来训练。",
+    "audio": null
+  },
+  {
+    "id": 73,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 10",
+    "english": "I think there's a real future for something like your system in those gyms, because then somebody can come in — maybe not during a class, but they can come in and they can hit that thing, or use it between classes or after classes or before classes.",
+    "literal_zh": "我觉得像你们这样的系统在那些健身房里很有前景，因为有人可以进来，也许不是在上课期间，但他们可以来打那个东西，或者在课间、课后、课前使用它。",
+    "audio": null
+  },
+  {
+    "id": 74,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 10",
+    "english": "I would definitely look at — if I was marketing it — I would market it to Planet Fitness, I would market it to Crunch, I would market it to all these gyms in America that are in the overall fitness space. Just say, \"Hey, you need this in your gym. It's going to bring people in.\"",
+    "literal_zh": "如果是我来做市场推广，我肯定会考虑 Planet Fitness、Crunch，以及美国所有这些综合健身领域的健身房。就告诉他们：“嘿，你们的健身房需要这个。它会把人带进来。”",
+    "audio": null
+  },
+  {
+    "id": 75,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 11",
+    "english": "How much does Mayweather charge for a membership?",
+    "literal_zh": "Mayweather Gym 的会员费是多少？",
+    "audio": null
+  },
+  {
+    "id": 76,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 11",
+    "english": "Membership at Mayweather, I think, was $29 a month. It wasn't that expensive. It wasn't Planet Fitness where you pay five, but at the same time, they're having to pay trainers to come in and teach these classes, and they're having to pay people to be there. So I understood the cost, and it wasn't that exorbitant to me.",
+    "literal_zh": "Mayweather 的会员费我记得是每月 29 美元。不算很贵。它不是 Planet Fitness 那种你付 5 美元就行的地方，但同时他们得付钱请教练来上课，也得付钱让员工在场。所以我理解这个成本，对我来说不算太离谱。",
+    "audio": null
+  },
+  {
+    "id": 77,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 11",
+    "english": "But Planet Fitness — it's a self-guided thing. You go in, you work out, you go home. There's one guy in the place, so they don't have that much overhead, so they can charge what they charge.",
+    "literal_zh": "但 Planet Fitness 是自助式的。你进去，训练，然后回家。场馆里就一个工作人员，所以他们没有那么多运营成本，因此可以收他们那个价格。",
+    "audio": null
+  },
+  {
+    "id": 78,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 11",
+    "english": "I think JabX would be great in a gym like Planet Fitness or Crunch, as an addition to what's already there. But at the same time, if you put it in the Mayweather, if you put it in the Rock Box, or these boutique boxing gyms, people are going to love it, because they're going to be able to go in there and train by themselves if they want. They won't have to go to the class — they can use JabX and get just as good a workout. Then they can go hit the bag, or they can use it as an augment to hitting the bag. \"Okay, I hit the bag — now let me go work with the Fight Bot and have it tell me what to do.\"",
+    "literal_zh": "我觉得 JabX 放在 Planet Fitness 或 Crunch 这样的健身房会很棒，作为现有设备的补充。但同时，如果你们把它放进 Mayweather、Rock Box，或者这些精品拳击馆，人们也会喜欢，因为他们想的话可以进去自己训练。他们不一定非得上课，可以使用 JabX，并获得同样好的训练效果。然后他们可以去打沙袋，或者把它作为打沙袋的补充。“好，我打完沙袋了，现在让我去跟 Fight Bot 练，让它告诉我该做什么。”",
+    "audio": null
+  },
+  {
+    "id": 79,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 12",
+    "english": "When you visit the boutique gym this week, would you be able to take a few photos for us? That would be really helpful.",
+    "literal_zh": "你这周去那家精品拳馆的时候，方便帮我们拍几张照片吗？那会很有帮助。",
+    "audio": null
+  },
+  {
+    "id": 80,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 12",
+    "english": "Yeah, I can take some pictures.",
+    "literal_zh": "可以，我可以拍一些照片。",
+    "audio": null
+  },
+  {
+    "id": 81,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 12",
+    "english": "Thank you. Also, what kind of combat-sports equipment do they have there?",
+    "literal_zh": "谢谢。另外，他们那里有哪些格斗训练设备？",
+    "audio": null
+  },
+  {
+    "id": 82,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 12",
+    "english": "The new one, I haven't investigated, but I'll go check it out for you. I'll take some photos and kind of get you a look at the setup and all that kind of stuff. I'm happy to do that for you. Because I want to go check it out anyway, so it's just my excuse to check it out. It'll probably be Friday morning that I'll go over there. I'll go check it out Friday morning, and I'll send you a bunch of pictures — maybe take a video or two for you.",
+    "literal_zh": "新开的那家我还没调查过，但我会去帮你们看一下。我会拍些照片，让你们大概看看它的布置和各种东西。我很乐意帮你们做这个。因为我本来也想去看看，所以这正好给了我一个去看的理由。我大概会周五早上过去。周五早上我会去看一下，然后给你们发一堆照片，也许还拍一两个视频给你们。",
+    "audio": null
+  },
+  {
+    "id": 83,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 12",
+    "english": "If you send me your email address, I'll send you an email and I'll get you all the information on the Nexersys machine as well.",
+    "literal_zh": "如果你们把邮箱地址发给我，我会给你们发邮件，也会把 Nexersys 机器的所有信息一起发过去。",
+    "audio": null
+  },
+  {
+    "id": 84,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 12",
+    "english": "I think we already have your WhatsApp. We'll send the email there.",
+    "literal_zh": "我想我们已经有你的 WhatsApp 了。我们会把邮箱发到那里。",
+    "audio": null
+  },
+  {
+    "id": 85,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 12",
+    "english": "That'd be perfect.",
+    "literal_zh": "那就完美了。",
+    "audio": null
+  },
+  {
+    "id": 86,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 13",
+    "english": "This may be a good moment to show you JabX. Full disclosure, what we have right now is still a render; we haven't launched yet.",
+    "literal_zh": "现在可能正好可以给你看一下 JabX。先说明一下，目前我们手上还是渲染图，还没有正式发布。",
+    "audio": null
+  },
+  {
+    "id": 87,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 13",
+    "english": "I'd love to see it. I saw a couple of pictures, and it was very cool to look at.",
+    "literal_zh": "我很想看。我看过几张图片，看起来非常酷。",
+    "audio": null
+  },
+  {
+    "id": 88,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 13",
+    "english": "Let me walk you through it. (shows JabX images) Here's the head target, the stomach target, and the screen. Both arms can swing through different angles, so they're not locked in place.",
+    "literal_zh": "我来给你介绍一下。（展示 JabX 图片）这里是头部目标、腹部目标和屏幕。两个手臂都可以以不同角度摆动，不是固定不动的。",
+    "audio": null
+  },
+  {
+    "id": 89,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 13",
+    "english": "I've seen other products where the arms are fixed — like six fixed positions. But yours can go through every angle?",
+    "literal_zh": "我见过其他产品，手臂是固定的，比如六个固定位置。但你们这个可以经过每个角度？",
+    "audio": null
+  },
+  {
+    "id": 90,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 13",
+    "english": "Yes, every angle. The idea is to make it feel closer to fighting a real person, so you can throw a wide range of combinations.",
+    "literal_zh": "对，各种角度都可以。我们的想法是让它更接近和真人对练的感觉，这样用户可以打出更丰富的组合。",
+    "audio": null
+  },
+  {
+    "id": 91,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 13",
+    "english": "Very cool. And the height — can you adjust it?",
+    "literal_zh": "非常酷。那高度呢，可以调吗？",
+    "audio": null
+  },
+  {
+    "id": 92,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 13",
+    "english": "Yes, it has a camera that scans your height and auto-adjusts, so whether someone is 5'2\" or 6'5\", the system can fit them.",
+    "literal_zh": "对，它有摄像头可以扫描身高并自动调整，所以无论用户是 5 英尺 2 英寸还是 6 英尺 5 英寸，系统都能适配。",
+    "audio": null
+  },
+  {
+    "id": 93,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 13",
+    "english": "Oh wow. That is really cool. Very cool. I can't wait till you guys get it off the ground.",
+    "literal_zh": "哦，哇。这个真的很酷。非常酷。我等不及看到你们把它做起来了。",
+    "audio": null
+  },
+  {
+    "id": 94,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 14",
+    "english": "(JabX team demonstrates the arm movement and light feedback system)",
+    "literal_zh": "(JabX 团队演示手臂运动和灯光反馈系统)",
+    "audio": null
+  },
+  {
+    "id": 95,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 14",
+    "english": "Our teammate is about to do a quick demo. It's still a little rough, but it should give you the idea.",
+    "literal_zh": "我们的同事会做一个快速演示。目前还比较早期，但应该能让你理解大概效果。",
+    "audio": null
+  },
+  {
+    "id": 96,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 14",
+    "english": "(watching the demo) I'm pretending he's the machine. I got it.",
+    "literal_zh": "(看演示) 我就假装他是机器。我懂了。",
+    "audio": null
+  },
+  {
+    "id": 97,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 14",
+    "english": "This is the head side. I can parry, and when I throw a punch, lights show me where to hit next. Then I can duck and counter, so the system gives real-time feedback.",
+    "literal_zh": "这是头部这一侧。我可以格挡；出拳后，灯光会提示下一拳打哪里。然后我可以下潜并反击，所以系统会给实时反馈。",
+    "audio": null
+  },
+  {
+    "id": 98,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 14",
+    "english": "Oh wow. Okay. So the lights show you where to punch and reflect your hits?",
+    "literal_zh": "哦，哇。好。所以灯会显示你该打哪里，也会反馈你打中了哪里？",
+    "audio": null
+  },
+  {
+    "id": 99,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 14",
+    "english": "We probably shouldn't kick it too hard yet, because the current motor is still an early version and might not be strong enough.",
+    "literal_zh": "现在可能还不能太用力踢，因为当前电机还是早期版本，强度可能还不够。",
+    "audio": null
+  },
+  {
+    "id": 100,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 14",
+    "english": "Very cool. I'm excited. You're absolutely onto something, because the fact that you can move and pivot —",
+    "literal_zh": "非常酷。我很兴奋。你们绝对抓到了一个好方向，因为它能够移动和转动——",
+    "audio": null
+  },
+  {
+    "id": 101,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 14",
+    "english": "Exactly. We'll have much more content later, including different training modes. There's also a massage mode: after the workout, it can help relax your shoulders and back.",
+    "literal_zh": "没错。后续我们会有更多内容，包括不同训练模式。还有一个按摩模式：训练结束后，它可以帮助放松肩膀和背部。",
+    "audio": null
+  },
+  {
+    "id": 102,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 14",
+    "english": "If you give me till next week — I tore my lawn apart because I want to put zoysia grass in, so it's very brown right now while we're waiting for the grass to come in. I'd rather take pictures and do all that kind of stuff when it's in better shape. But what you're talking about — where it moves, and you have to maneuver as well as strike — that's an element that the Nexersys does digitally. If you're doing it physically, it's going to… you guys are so onto something. It's going to be really cool, because it makes it interactive. It gives you an opponent, for lack of a better term. You don't have to imagine — like, imagine doing… you're physically moving away from, you're physically working with that opponent.",
+    "literal_zh": "如果你们给我到下周——我把草坪翻了一遍，因为我想铺结缕草，所以现在草还没长出来，看起来很黄。我更愿意等它状态好一点的时候再拍照片和做那些事情。但你们说的这个——它会动，你既要移动也要击打——这是 Nexersys 以数字方式实现的元素。如果你们用实体方式实现，那会……你们真的抓到东西了。这会非常酷，因为它让训练变得互动。它给了你一个对手，姑且这么说。你不需要想象，比如想象自己在做什么……你是在身体上真正躲开，真正和那个对手互动。",
+    "audio": null
+  },
+  {
+    "id": 103,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 14",
+    "english": "Very good. Digital approval — very good.",
+    "literal_zh": "很好。线上批准——非常好。",
+    "audio": null
+  },
+  {
+    "id": 104,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 15",
+    "english": "Is there anything you would like to ask us? We've been asking you questions the whole time.",
+    "literal_zh": "你有什么想问我们的吗？一直都是我们在问你问题。",
+    "audio": null
+  },
+  {
+    "id": 105,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 15",
+    "english": "Is there anything you would like to ask us? We've been asking you questions the whole time.",
+    "literal_zh": "你有什么想问我们的吗？一直都是我们在问你问题。",
+    "audio": null
+  },
+  {
+    "id": 106,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 15",
+    "english": "If we think of more questions later, would it be okay if we reach out on WhatsApp?",
+    "literal_zh": "如果我们后面想到更多问题，可以通过 WhatsApp 再联系你吗？",
+    "audio": null
+  },
+  {
+    "id": 107,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 15",
+    "english": "I'll happily answer any questions you've got.",
+    "literal_zh": "你们有任何问题，我都很乐意回答。",
+    "audio": null
+  },
+  {
+    "id": 108,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 15",
+    "english": "One more thing about the FightCamp sensors: do you still use them?",
+    "literal_zh": "还有一个关于 FightCamp 传感器的问题：你现在还在用它们吗？",
+    "audio": null
+  },
+  {
+    "id": 109,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 15",
+    "english": "Yes.",
+    "literal_zh": "在用。",
+    "audio": null
+  },
+  {
+    "id": 110,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 15",
+    "english": "What kind of data do they actually give you?",
+    "literal_zh": "它们实际会给你什么数据？",
+    "audio": null
+  },
+  {
+    "id": 111,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 15",
+    "english": "The thing that I've noticed — they call them accelerometers. I hit a pretty heavy bag, so I don't use their FightCamp bag. I use a water bag, or kind of like a bag like you have behind you. And so it doesn't determine punching power as well — there's not as much give. But I think the punch count was really good. It was kind of rudimentary about three or four years ago when I first started using it, but it's gotten much more accurate.",
+    "literal_zh": "我注意到的是——他们叫它们加速度计。我打的是相当重的沙袋，所以我不用他们的 FightCamp 沙袋。我用的是水袋，或者有点像你们身后那种袋子。因此它对出拳力量的判断没那么好，因为沙袋没有那么多形变。但我觉得出拳次数统计做得很好。我三四年前刚开始用的时候，它还有点基础，但现在准确多了。",
+    "audio": null
+  },
+  {
+    "id": 112,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 15",
+    "english": "That's a really useful point. We were thinking about sensors as well, maybe in the gloves or on the machine itself.",
+    "literal_zh": "这个点很有用。我们也在考虑传感器，可能放在手套里，也可能放在机器本体上。",
+    "audio": null
+  },
+  {
+    "id": 113,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 15",
+    "english": "But I think the punching power on the accelerometer is a little… it's not as accurate as I would like it to be. Other than that, I think that whole sensor feedback thing is just awesome, because it helps you understand that you're improving while you're doing it. You don't have to look at your data afterwards — you know your goal, you know you're doing your thing. Also, it allows you the opportunity to shadow box if you really want to, because you still have the accelerometer. So you can use FightCamp to kind of shadow box as well. That's an aspect of boxing that gets overlooked a lot.",
+    "literal_zh": "但我觉得加速度计测出的出拳力量有点……没有我希望的那么准确。除此之外，我觉得整个传感器反馈系统非常棒，因为它帮助你在训练过程中就理解自己正在进步。你不用等训练后再看数据——你知道自己的目标，也知道自己正在做什么。另外，如果你真的想，它也让你有机会做空击，因为你身上仍然有加速度计。所以你也可以用 FightCamp 做某种空击训练。这是拳击中经常被忽视的一方面。",
+    "audio": null
+  },
+  {
+    "id": 114,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 15",
+    "english": "I think if somebody built the sensors into a pair of gloves that they were going to sell with the product, it would be much easier. Because now you have to tuck them into your wraps, and you can only use their wraps — it makes it proprietary. But if you put the accelerometers into a pair of boxing gloves, that would be one more thing you could sell with the system. You could sell the accelerometers, or you could say, \"If you pay $99.95 for the combo, you get the JabX boxing gloves with the accelerometer built in.\" Someone might think, \"That would be worth buying.\"",
+    "literal_zh": "我觉得如果有人把传感器直接做进一副拳套里，并随产品一起销售，那会方便得多。因为现在你得把它们塞进缠手带里，而且只能用他们的缠手带，这就变成了专有系统。但如果你把加速度计放进一副拳击手套里，那就是你可以和系统一起销售的另一个东西。你可以卖加速度计，也可以说：“如果你花 99.95 美元买组合包，就能得到内置加速度计的 JabX 拳套。”用户可能会觉得：“这个值得买。”",
+    "audio": null
+  },
+  {
+    "id": 115,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 16",
+    "english": "How hard do you usually punch? Do you have a number for that?",
+    "literal_zh": "你通常出拳力量有多大？有具体数据吗？",
+    "audio": null
+  },
+  {
+    "id": 116,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 16",
+    "english": "I hit harder than most, but I don't have an exact number. I've worked with people — mitt work. I have a very heavy left hook. It has saved me in a lot of situations, let's put it that way. It's because when I studied Arnis, it was very big on hip movement. Boxing is about — you don't punch with your arms, you punch with your body. You punch with your hips. It's about your hip movements, your torque. Developing power — you develop power through rotating and all that. So everything I do is about rotating and about footwork.",
+    "literal_zh": "我比大多数人打得重，但没有确切数字。我和别人练过手靶。我有一记很重的左勾拳。可以这么说，它在很多情况下救过我。这是因为我学习 Arnis 的时候，非常强调髋部动作。拳击讲的是——你不是用胳膊出拳，而是用身体出拳。你用髋部出拳。关键在于髋部动作、扭矩。发展力量，就是通过旋转等等来发展力量。所以我做的一切都围绕旋转和步法。",
+    "audio": null
+  },
+  {
+    "id": 117,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 17",
+    "english": "Have you ever used one of those force-plate systems, the kind of sensor that measures exactly how hard you hit?",
+    "literal_zh": "你用过那种测力板系统吗？就是可以精确测量击打力量的传感器。",
+    "audio": null
+  },
+  {
+    "id": 118,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 17",
+    "english": "Yes, I've used those.",
+    "literal_zh": "用过，我用过。",
+    "audio": null
+  },
+  {
+    "id": 119,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 17",
+    "english": "What if we built that into JabX, so it could show your punch pressure or impact for every punch?",
+    "literal_zh": "如果我们把这个能力内置到 JabX 里，让它显示每一拳的压力或冲击力，你觉得怎么样？",
+    "audio": null
+  },
+  {
+    "id": 120,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 17",
+    "english": "Oh, that would be cool. It would give you meaningful feedback on punching power.",
+    "literal_zh": "哦，那会很酷。它会给你关于出拳力量的有意义反馈。",
+    "audio": null
+  },
+  {
+    "id": 121,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 17",
+    "english": "That's the direction we want to go: sensors in the arms and real performance numbers.",
+    "literal_zh": "这正是我们想做的方向：把传感器放进手臂里，提供真实的表现数据。",
+    "audio": null
+  },
+  {
+    "id": 122,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 17",
+    "english": "You want to be able to hit 750 pounds per square inch. \"I want a 750 PSI punch\" — and that's what you work towards. So every punch you're throwing, you're trying to hit that 750 pounds, because that's generally what a professional fighter will hit — between 750 and 950. Most people will hit between the 200 to 300 PSI range, because they're arm punching, until they learn how to turn over the punch — getting your hips behind you, rotating off your back foot.",
+    "literal_zh": "你会想达到每平方英寸 750 磅。“我想打出 750 PSI 的拳”——这就是你努力的方向。所以你打出的每一拳，都在尝试达到那 750 磅，因为职业拳手通常能打到那个水平，大概 750 到 950 之间。大多数人会在 200 到 300 PSI 的范围，因为他们是在用胳膊打，直到他们学会如何把拳翻出去，也就是让髋部带上来，从后脚旋转发力。",
+    "audio": null
+  },
+  {
+    "id": 123,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 17",
+    "english": "One of the things about boxing is everything's backwards. If you want to generate power, you've got to rotate off your back foot versus your front foot. You've got to learn that nothing is what you think it's going to be — and then let your body develop naturally.",
+    "literal_zh": "拳击里有一点是，一切都和直觉相反。如果你想产生力量，你必须从后脚而不是前脚旋转。你必须学会，事情并不会像你以为的那样，然后让身体自然发展出来。",
+    "audio": null
+  },
+  {
+    "id": 124,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 18",
+    "english": "Do you still have a few minutes, or are we keeping you too long?",
+    "literal_zh": "你现在还有几分钟吗？还是我们已经占用你太久了？",
+    "audio": null
+  },
+  {
+    "id": 125,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 18",
+    "english": "Oh, sure. I thought this was the interview. Yeah, I've got a few more minutes.",
+    "literal_zh": "哦，当然。我以为这就是访谈。对，我还有几分钟。",
+    "audio": null
+  },
+  {
+    "id": 126,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 18",
+    "english": "Besides punch power, what other data would matter to you? What kind of feedback would feel genuinely useful?",
+    "literal_zh": "除了出拳力量之外，还有哪些数据对你重要？什么样的反馈会让你觉得真正有用？",
+    "audio": null
+  },
+  {
+    "id": 127,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 18",
+    "english": "I would say punch count is really important. Setting those goals — because what's going to help you cardiovascularly, and what's going to help you with muscle endurance, is setting, \"Okay, for this round you want to punch 500 times,\" throughout the different combinations that we're going to do.",
+    "literal_zh": "我会说出拳次数非常重要。设定这些目标，因为真正能帮助你心肺、帮助你肌肉耐力的是设定：“好，这一回合你要出 500 拳”，并且在我们要做的不同组合里完成它。",
+    "audio": null
+  },
+  {
+    "id": 128,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 18",
+    "english": "The other thing is introducing combinations — teaching people how to throw a 4, 5, 6-punch combination and ripping it, and repeating that. So, \"We're going to do 2, 4, 6, 3,\" and 2, 4, 6, 3, and 2, 4, 6, 3 — until everything becomes muscle memory.",
+    "literal_zh": "另一个是引入组合拳，教人们如何打出 4 拳、5 拳、6 拳的组合，并且快速打出来、不断重复。所以比如“我们要做 2、4、6、3”，然后 2、4、6、3，再 2、4、6、3，直到一切变成肌肉记忆。",
+    "audio": null
+  },
+  {
+    "id": 129,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 18",
+    "english": "One of the things that we learned is it takes 250 repetitions of a particular task to make it muscle memory. In other words, you don't think about shaking someone's hand, because you've done that 250 times. You don't think, \"Extend arm, open palm, turn slightly, shake, release, return.\" You don't think about it — it's instinctive. You've repeated that thing.",
+    "literal_zh": "我们学到的一件事是，一个特定动作需要重复 250 次才能变成肌肉记忆。换句话说，你不会去思考怎么和别人握手，因为你已经做过 250 次。你不会想：“伸出手臂，打开手掌，稍微转动，握手，松开，收回。”你不会去想，它是本能。因为你重复过那件事。",
+    "audio": null
+  },
+  {
+    "id": 130,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 18",
+    "english": "So when you're learning combinations — if you think about a 1-2 punch combination, you're going to have to do that 250 times before somebody can say \"1-2\" and you know exactly what to do. Those lessons, when you're looking at going from a novice to a boxer who can throw multiple punch combinations — which is ultimately what you want. You want to look cool, and you want to be able to throw all those cool punches — it's repetition, repetition, repetition. While making it fun at the same time. Not feeling like you're going crazy.",
+    "literal_zh": "所以当你学习组合拳时，如果你想的是 1-2 组合，你得做 250 次，别人才一说“1-2”，你就知道该怎么做。从新手到能够打出多拳组合的拳手，这些课程就是关键，而这最终也是你想要的。你想看起来很酷，也想能打出那些很酷的拳——这靠的是重复、重复、重复。同时还要让它有趣，不要让人觉得自己快疯了。",
+    "audio": null
+  },
+  {
+    "id": 131,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 18",
+    "english": "And with the arm movement — now you can throw… you're not just ducking for ducking's sake. You're actually trying to get out of the way of something. Something they do in FightCamp is \"1, 2 — duck! Pull back. 1, 2 — duck.\" You're having to do all that by command. Whereas with your machine, you'll actually physically have to do it, because that thing's going to move over top of you. That's just something that's going to be really, really innovative with your system. I'm very excited to see it.",
+    "literal_zh": "再加上手臂运动，现在你可以打……你不是为了下潜而下潜。你是真的在试图躲开某个东西。FightCamp 里会做类似“1、2——下潜！后撤。1、2——下潜”的内容。你是根据口令做所有动作。而你们的机器会让你在身体上真的不得不去做，因为那个东西会从你头上方移动过去。这会是你们系统里非常非常创新的一点。我很期待看到它。",
+    "audio": null
+  },
+  {
+    "id": 132,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 18",
+    "english": "Punch goals, repetitions, repeating those repetitions so that you can develop those instinctive, quick combinations that you can throw — and then take advantage of the fact that you can do counterpunching. You're slipping, you're ducking, you're trying to get out of the way of a cross, and now you're counterpunching. That's something that, based on what you physically designed — boxers will go, \"Oh man!\" Because they're going to want to utilize that, they're going to want to learn.",
+    "literal_zh": "出拳目标、重复次数，不断重复这些动作，让你能发展出本能的、快速的组合拳——然后再利用你可以做反击这一点。你在闪躲，你在下潜，你在试图躲开一记直拳，然后你开始反击。基于你们已经做出的实体设计，拳击手会说：“哇，兄弟！”因为他们会想利用这个，会想学习。",
+    "audio": null
+  },
+  {
+    "id": 133,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 18",
+    "english": "Counterpunching is something that you can only learn with a real partner. Normally a person is calling out numbers, you're throwing those punches, and they're swinging their arms over your head — you have to physically get out of the way. You've created something where it's basically like doing mitt work with combinations, and you're having to physically move, as opposed to going through the motions. Because let's face it — when you're tired, you're not going to duck as low as you should, you're not going to keep your eyes on the target like you should. You're going to lower your head, you're going to lower your chin, you're going to leave yourself exposed. You can do all those things that you're not supposed to do when you're boxing — things you would normally have to have the discipline to do yourself every time. With that machine, you physically have to do it. It's really cool.",
+    "literal_zh": "反击通常是只能和真实伙伴一起学的。一般会有一个人喊数字，你打出那些拳，同时对方会把手臂从你头上挥过去，你必须身体上真的躲开。你们创造出来的东西，基本上就像是在做带组合拳的手靶训练，而且你必须真正移动，而不是只是走过场。因为说实话，当你累的时候，你下潜不会像应该的那样低，你不会像应该的那样盯住目标。你会低头，会收下巴过度，会让自己暴露。你会做出所有拳击时不该做的事情，而这些通常需要你每次都靠自律去完成。用那台机器，你身体上不得不去做。真的很酷。",
+    "audio": null
+  },
+  {
+    "id": 134,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 19",
+    "english": "I have two more questions, and then we'll let you go. First, if JabX could track speed and reaction time, and rank users by level, would that be useful?",
+    "literal_zh": "我还有两个问题，然后就不继续占用你时间了。第一个，如果 JabX 能追踪速度和反应时间，并按水平给用户分级，这会有用吗？",
+    "audio": null
+  },
+  {
+    "id": 135,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 19",
+    "english": "Oh, absolutely. Because then you could set levels — beginner, intermediate, and advanced — and you can work towards those. At the beginner level, things are moving rather slowly. It's kind of like that progressive training purpose. Then as you get into the intermediate level, things are moving a little faster — so when you've got to move, you've got to move. And when you get to the advanced level, it's almost like you're fighting an opponent.",
+    "literal_zh": "哦，绝对会。因为那样你们就可以设置等级：初级、中级、高级，然后用户可以朝这些等级努力。在初级阶段，东西移动得比较慢。这就像渐进式训练的目的。然后到了中级阶段，东西移动得更快一些，所以当你该动的时候，你就必须动。到了高级阶段，它几乎就像你在和一个对手交手。",
+    "audio": null
+  },
+  {
+    "id": 136,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 19",
+    "english": "That is a great idea — to either interactively match your speed, in other words, how you move, and then I would even give some form of negative feedback. If it pops you in the head because you don't get low enough — not so much negative feedback like punishment, but like how a coach would talk to you: \"Get your head down. Make sure you're looking at your target. Get a little faster, come on!\" Have that positive and negative motivation where the system is kind of coaching you.",
+    "literal_zh": "这是个很棒的想法——它可以互动式地匹配你的速度，也就是根据你的移动方式来调整。我甚至会加入某种负反馈。如果因为你没有蹲得足够低，它轻轻碰到你的头——不是那种惩罚式的负反馈，而是像教练跟你说话一样：“把头低下去。确保你看着目标。再快一点，来！”让系统以一种教练的方式给你正向和负向激励。",
+    "audio": null
+  },
+  {
+    "id": 137,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 19",
+    "english": "Something I might suggest: find a pro boxer to do like they did in Madden with the video game — where a pro boxer is talking to you while you're training, or a trainer. You're getting feedback from a pro, from someone you might recognize, rather than a computer buzzing at you.",
+    "literal_zh": "我可能会建议一件事：找一个职业拳手来做，就像 Madden 橄榄球游戏里那样——让职业拳手或训练师在你训练时跟你说话。你得到的是来自专业人士、来自你可能认识的人的反馈，而不是一台电脑对你嗡嗡响。",
+    "audio": null
+  },
+  {
+    "id": 138,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 19",
+    "english": "I can think of a couple people in the business. Tony Jeffries is a British boxer who does a lot of YouTube and TikTok on boxing — coaching, virtual coaching, reviews of fights. He was a former Olympic boxer. The list is endless of retired boxers who probably would love to get on board with your project and be the voice.",
+    "literal_zh": "我能想到这个行业里几个人。Tony Jeffries 是一位英国拳手，他在 YouTube 和 TikTok 上做很多拳击内容，包括教学、线上指导、比赛点评。他曾经是奥运拳击手。退役拳手的名单很长，他们可能会很愿意加入你们项目，成为那个声音。",
+    "audio": null
+  },
+  {
+    "id": 139,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 19",
+    "english": "As you said, interactive or reactive movement — and then setting movement goals. You want to get from beginner to intermediate where you're moving faster, and then to that advanced level. It's that next level you're trying to get to, where it's moving faster and faster, you have to move faster and faster, and you have to punch quicker, and you have to improve.",
+    "literal_zh": "就像你们说的，互动式或反应式移动，然后设置移动目标。你想从初级到中级，在那里你移动得更快，然后再到高级水平。你要追求的是下一个等级，机器越来越快，你必须越来越快地移动，也必须更快出拳，并且不断提升。",
+    "audio": null
+  },
+  {
+    "id": 140,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 19",
+    "english": "That's going to be something — because especially with boxing, you're going to be looking at Type A, competitive people. They're Type A personalities, and they're competitive because they love competition. So having challenges and benchmarks — you put something in front of them that says, \"You know, you have to train to get here\" — they're going to be like, \"Whoa, I've got to get that.\"",
+    "literal_zh": "这会很有价值——因为尤其是在拳击里，你们面对的是 A 型人格、喜欢竞争的人。他们是 A 型人格，而且有竞争心，因为他们热爱竞争。所以有挑战、有基准——你在他们面前放一个目标，说“你知道，你必须训练到这里”——他们会想：“哇，我一定要拿到那个。”",
+    "audio": null
+  },
+  {
+    "id": 141,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 20",
+    "english": "What if JabX included training games, such as a rhythm mode where you punch to the beat, or a simulation mode where you train against Mike Tyson-style punches?",
+    "literal_zh": "如果 JabX 加入训练游戏，比如跟着节奏出拳的节奏模式，或者模拟和 Mike Tyson 风格拳路对练的模式，你觉得怎么样？",
+    "audio": null
+  },
+  {
+    "id": 142,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 20",
+    "english": "100%. Both of those functions would be great, especially with Tyson, because then all the Gen Xers will remember Punch-Out from when we were kids — the Nintendo game where it was Mike Tyson and you were the little drawing of a boxer. And that was us! And then you had Mike Tyson, who was like nine feet tall. All of us Generation X types who played those video games as kids would be like, \"Yeah, this is just like the video game — only better.\"",
+    "literal_zh": "百分之百。那两个功能都会很棒，尤其是泰森那个，因为所有 X 世代的人都会想起我们小时候玩的 Punch-Out，就是任天堂那个游戏，里面有迈克·泰森，而你是一个小小的拳击手图像。那就是我们！然后你面前是像九英尺高一样的迈克·泰森。我们这些小时候玩过那些电子游戏的 X 世代都会说：“对，这就像那个游戏，只是更好。”",
+    "audio": null
+  },
+  {
+    "id": 143,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 21",
+    "english": "We're thinking about an AI coach that watches through the camera, analyzes your form, and gives tips. What would you want it to do for you?",
+    "literal_zh": "我们在考虑 AI 教练功能，通过摄像头观察动作、分析姿势并给出建议。你希望它为你做什么？",
+    "audio": null
+  },
+  {
+    "id": 144,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 21",
+    "english": "I think it would really help, because then you could analyze — especially if AI is interactive and you have a camera that's watching. You can say, \"Hey, you didn't keep your chin up six times in the last two minutes. You've got to work on that.\" You get real feedback from the AI actually analyzing your punches. \"You're having trouble keeping your hands up at the end of the round. You need to work on that.\" All that feedback at the end.",
+    "literal_zh": "我觉得它真的会有帮助，因为那样你就可以分析——尤其是如果 AI 是互动式的，而且有摄像头在看。它可以说：“嘿，过去两分钟里你有六次没有保持下巴位置。你得练这个。”你会从真正分析你出拳的 AI 那里得到真实反馈。“你在回合末段很难保持双手抬起。你需要练这个。”这些都是回合结束后的反馈。",
+    "audio": null
+  },
+  {
+    "id": 145,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 21",
+    "english": "Especially from an AI that can analyze what you've been doing and what they expect. \"Your hands drop four inches from the beginning of the first round to the end of the third round — that's something we need to work on.\" And then it can even analyze and create a training program — a boxing program where you're working on keeping your hands up, keeping your guard up. It can spot those inconsistencies in your boxing and help you improve.",
+    "literal_zh": "尤其是 AI 能分析你一直在做什么，以及它期望你做到什么。“从第一回合开始到第三回合结束，你的双手下降了四英寸——这是我们需要练的东西。”然后它甚至可以分析并创建一个训练计划，一个拳击计划，专门让你练保持双手抬起、保持防守架势。它可以发现你拳击动作中的不一致之处，并帮助你提高。",
+    "audio": null
+  },
+  {
+    "id": 146,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 21",
+    "english": "That's just going to be icing on the cake. Especially, \"Hey, at the end of the round we noticed the following…\" And you're like, \"Oh man, I can't believe you saw that.\"",
+    "literal_zh": "那会是锦上添花。尤其是那种：“嘿，在这一回合结束时，我们注意到以下几点……”然后你会想：“天啊，我不敢相信你连这个都看到了。”",
+    "audio": null
+  },
+  {
+    "id": 147,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 21",
+    "english": "We're thinking about an AI coach that can watch through the camera, analyze your form, and give tips. What would you actually want it to do for you?",
+    "literal_zh": "我们在考虑 AI 教练功能，通过摄像头观察动作、分析姿势并给出建议。你实际希望它为你做什么？",
+    "audio": null
+  },
+  {
+    "id": 148,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 21",
+    "english": "I'm a self-coacher, so I think AI… I'm embracing AI. It's something I think is going to be part of our lives forever — right up until it decides we're no longer important, and then Cyberdyne Systems takes over. Until Miles Dyson starts Cyberdyne Corporation, I'm not going to worry.",
+    "literal_zh": "我是那种会自己指导自己的人，所以我觉得 AI……我是接受 AI 的。我认为它会永远成为我们生活的一部分——直到它决定我们不再重要，然后 Cyberdyne Systems 接管一切。在 Miles Dyson 创立 Cyberdyne Corporation 之前，我不会担心。",
+    "audio": null
+  },
+  {
+    "id": 149,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 21",
+    "english": "But one of the things I think is interesting — especially with people my age — is it's very interesting what technology we embrace versus what technology we reject. The biggest thing I would say is, if you're going to use AI coaching, try to introduce it slowly into the program — slowly into the training factors. Because there are guys my age who don't like AI. They're afraid of it. So having dual options might be something that you need to look into, and then maybe testing it.",
+    "literal_zh": "但我觉得有意思的一件事，尤其是对我这个年龄的人来说，就是我们会接受什么技术、又会拒绝什么技术，这很有意思。我最想说的是，如果你们要使用 AI 教练，尽量慢慢把它引入课程里，慢慢引入训练要素里。因为有些我这个年龄的男人不喜欢 AI，他们害怕它。所以提供双选项可能是你们需要考虑的事情，然后也许测试一下。",
+    "audio": null
+  },
+  {
+    "id": 150,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 21",
+    "english": "The twenty-year-olds and thirty-year-olds are going to love it — they're going to be all about AI. When you get into the forty- and fifty-year-olds, and even the sixty-year-olds — because some of us are still out there doing this stuff — it's going to be interesting as to what technology they've embraced and what technology they will embrace.",
+    "literal_zh": "二十多岁和三十多岁的人会喜欢它，他们会非常拥抱 AI。当你进入四十多岁、五十多岁，甚至六十多岁的人群时——因为我们当中有些人还在做这些事情——他们已经接受了什么技术、还会接受什么技术，就会很有意思。",
+    "audio": null
+  },
+  {
+    "id": 151,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 21",
+    "english": "Exactly. The goal is to make the feedback specific and useful, not just generic encouragement.",
+    "literal_zh": "没错。目标是让反馈具体、有用，而不是泛泛地鼓励。",
+    "audio": null
+  },
+  {
+    "id": 152,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 21",
+    "english": "I also think that would be something that you want to work on, too — creating a Facebook community, or a TikTok community, a social network community where people can post their workouts. Especially if the machine has a camera on it — now we can just say, \"Do you want to upload your video? Do you want to share this workout with the community?\" \"Hey, I just did level 15 on intermediate boxing level — look at my video!\" People will just go gaga over that, because it beats having to set up a camera at the end of the gym and videotape yourself boxing. You've got it already there.",
+    "literal_zh": "我也觉得这会是你们应该做的一件事：创建一个 Facebook 社群，或者 TikTok 社群，一个社交网络社群，让人们可以发布自己的训练。尤其是如果机器上有摄像头，那我们就可以直接说：“你想上传你的视频吗？你想把这次训练分享给社群吗？”“嘿，我刚完成中级拳击第 15 级，看看我的视频！”人们会为此兴奋起来，因为这比在健身房尽头架一台相机录自己打拳方便多了。你们已经把它放在那里了。",
+    "audio": null
+  },
+  {
+    "id": 153,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 21",
+    "english": "That makes sense. Between an AI coach and a real human coach giving feedback, which would feel more useful to you?",
+    "literal_zh": "这很有道理。在 AI 教练和真人教练反馈之间，哪一种对你来说更有用？",
+    "audio": null
+  },
+  {
+    "id": 154,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 22",
+    "english": "Let me ask about another version we're considering. It would be shaped more like a human upper body, without legs, and it might cost around $10,000. What would you think of that?",
+    "literal_zh": "我想问一下我们正在考虑的另一个版本。它更像人的上半身，没有腿，价格可能在 1 万美元左右。你怎么看？",
+    "audio": null
+  },
+  {
+    "id": 155,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 22",
+    "english": "I would say the system that you already have — because it looks like it might be a little bit more user-friendly. I can envision everything else. But the human form might be a little creepy. I might not want a robot in my house.",
+    "literal_zh": "我会说，你们现在已有的这个系统更好，因为它看起来可能更容易被用户接受。我能想象其他所有东西。但人体形态可能有点吓人。我可能不想在家里放一个机器人。",
+    "audio": null
+  },
+  {
+    "id": 156,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 22",
+    "english": "The idea is that you could physically train against a robot. Do you think that would be exciting for users?",
+    "literal_zh": "核心想法是用户可以和一个机器人进行实体对练。你觉得这会让用户兴奋吗？",
+    "audio": null
+  },
+  {
+    "id": 157,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 22",
+    "english": "I wouldn't say no to it. I think it's something I'd have to see, I guess, to kind of interact with. I don't see a problem — I just think it would be a little strange to walk into your garage and see the shape of a person in the middle of the night.",
+    "literal_zh": "我不会直接否定它。我觉得这可能是我得亲眼看到、实际互动一下才知道的东西。我不觉得它有问题，只是我觉得半夜走进车库，看到一个人形东西站在那里，会有点奇怪。",
+    "audio": null
+  },
+  {
+    "id": 158,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 22",
+    "english": "Between the JabX you just saw and the human-shaped version, which one would you be more likely to buy?",
+    "literal_zh": "在你刚看到的 JabX 和人形上半身版本之间，你更可能买哪一个？",
+    "audio": null
+  },
+  {
+    "id": 159,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 22",
+    "english": "I prefer the one you've already got — the JabX that you've shown me. I think that makes a lot of sense. The human form might be a little too much. It's just my instinct. I'm just giving you my feedback, but again, I'm just one person.",
+    "literal_zh": "我更喜欢你们已经有的那个，也就是你们刚给我看的 JabX。我觉得那个很合理。人体形态可能有点过头了。这只是我的直觉。我只是给你们我的反馈，但还是那句话，我只是一个人。",
+    "audio": null
+  },
+  {
+    "id": 160,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 22",
+    "english": "That makes sense. A human-shaped machine in a garage at night could feel a little strange.",
+    "literal_zh": "这很合理。晚上在车库里看到一个人形机器，确实可能会让人觉得有点奇怪。",
+    "audio": null
+  },
+  {
+    "id": 161,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 22",
+    "english": "One angle we're thinking about is social sharing. Would it matter to you if you could post your workout results or clips online?",
+    "literal_zh": "我们正在考虑的一个方向是社交分享。如果你可以在线发布训练结果或片段，这对你重要吗？",
+    "audio": null
+  },
+  {
+    "id": 162,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 22",
+    "english": "(The JabX team shows a photo of the human-form version)",
+    "literal_zh": "(JabX 团队展示人形版本的照片)",
+    "audio": null
+  },
+  {
+    "id": 163,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 22",
+    "english": "Well, that's not as bad as I thought. I mean, I'd give it a shot. But I would say the initial one looks great for the startup. Make the human form Round 2 — you know what I'm saying? When the sales are starting to drop, then you start working on that one, and initiate that as the 2.0 of the original. Because people will already be interested in it, and then it won't be… if you understand what I'm saying.",
+    "literal_zh": "嗯，这比我想象的没那么糟。我的意思是，我愿意试一试。但我会说，初始版本对创业公司来说看起来很棒。把人形版本做成第二轮产品——你明白我的意思吧？等销量开始下降时，你们再开始做那个，把它作为原始版本的 2.0 推出。因为那时人们已经对它感兴趣了，然后它就不会那么……如果你们理解我的意思。",
+    "audio": null
+  },
+  {
+    "id": 164,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 22",
+    "english": "The interesting part is that you could physically train against a robot. Do you think that idea would excite people?",
+    "literal_zh": "有意思的地方是用户可以和机器人进行实体对练。你觉得这个想法会让人感兴趣吗？",
+    "audio": null
+  },
+  {
+    "id": 165,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 23",
+    "english": "Since you've been training for so long, how do you usually plan your workouts? Do you decide in advance or choose on the day?",
+    "literal_zh": "你训练这么多年，通常是怎么安排训练的？你会提前计划，还是当天决定？",
+    "audio": null
+  },
+  {
+    "id": 166,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 23",
+    "english": "I'm a morning trainer. I get up at 5:30 or 4:30 in the morning, depending on what I'm doing that day. I do road work in the morning — I go for a run, then I'll go hit the pool, and then I'll come back here. Between 7 and 10 a.m. is when I do my workouts. Because in Florida it gets really hot by midday — especially in the summer, we're talking 98, 99 degrees and 98, 99% humidity. You've got to be a tough son of a gun to work out outside in that weather, or in the garage. So I try to get my stuff done before 10 a.m. That way I have the rest of the day to do all the things I need to do.",
+    "literal_zh": "我是早上训练的人。我早上 5:30 或 4:30 起床，取决于当天要做什么。我早上做路跑训练，先去跑步，然后去游泳池，然后再回到这里。我通常在上午 7 点到 10 点之间训练。因为佛罗里达中午会非常热，尤其是夏天，我们说的是 98、99 华氏度，湿度 98%、99%。在那种天气里，或者在车库里室外训练，你得非常硬。所以我尽量在上午 10 点前把训练完成。这样我一天剩下的时间就能做其他需要做的事。",
+    "audio": null
+  },
+  {
+    "id": 167,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 23",
+    "english": "So that's generally when I do my workouts — in the mornings. And then I schedule those workouts basically Monday, Wednesday, Friday, or Tuesday, Thursday, Saturday, depending on my week. If I get off to a slow Monday — but I'm also 90% retired. I do a couple of things here and there. My schedule probably won't be indicative of what you would expect from regular folks. Most folks are going to come home from work, go into the gym room in the house, and do the workouts in the evening — or do them in the mornings before they go to work. Things like that. But like I said, I don't really have a schedule, so it's kind of cool.",
+    "literal_zh": "所以我一般就是早上训练。然后我基本上把这些训练安排在周一、周三、周五，或者周二、周四、周六，取决于我那一周的情况。如果周一开始得比较慢也没关系——不过我现在也算 90% 退休了。我偶尔做点这个那个。我的时间安排可能不能代表普通人的情况。大多数人会下班回家，进家里的健身房房间，晚上训练，或者早上上班前训练。类似这样。但就像我说的，我其实没有真正的固定日程，所以这还挺好。",
+    "audio": null
+  },
+  {
+    "id": 168,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 24",
+    "english": "On a specific boxing day, how do you decide what to train? For example, how would you choose between hooks, footwork, or combinations?",
+    "literal_zh": "在专门练拳的日子里，你怎么决定具体练什么？比如勾拳、步法或组合拳之间怎么选择？",
+    "audio": null
+  },
+  {
+    "id": 169,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 24",
+    "english": "One of the things I like about FightCamp for that purpose is they have a progression. They have the novice progression, and then the intermediate progression, and then the advanced progression. Every day you do a different workout. There's a track. And then once you've decided what you want to work on, they also have extra workouts — \"I want to do a speed workout today, I want to do a focus workout today, I want to do a hard punch workout today.\" So you can pick and choose what workouts you want to do. But they have a path that you can follow, so you don't have to decide. You just go, \"Hey, stage two of this block of training.\"",
+    "literal_zh": "为了这个目的，我喜欢 FightCamp 的一点是它有进阶体系。它有新手进阶，然后是中级进阶，再到高级进阶。每天你做不同训练。有一条路径。然后当你决定自己想练什么之后，他们也有额外训练，比如“我今天想做速度训练，我今天想做专注训练，我今天想做重拳训练。”所以你可以选择自己想做的训练。但他们也有一条你可以遵循的路径，这样你就不用自己决定。你只需要说：“好，这个训练模块的第二阶段。”",
+    "audio": null
+  },
+  {
+    "id": 170,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 24",
+    "english": "So they set it up in a beginner block — I think they call it the \"Prospect Path,\" like you're a boxing prospect. They have a six-week program where you're just doing those workouts every day — 15, 20-minute workouts — and they vary in length and duration and what you're doing. It does the changing of things for you. And then if I wanted to do a hard punching workout after that, I can do that.",
+    "literal_zh": "所以他们会设置一个初学者模块，我记得他们叫它“Prospect Path”，就像你是一个拳击新秀。他们有一个六周项目，你每天做那些训练，15 分钟、20 分钟的训练，长度、时长和内容都会变化。它替你完成变化。然后如果我在那之后想做一个重拳训练，也可以做。",
+    "audio": null
+  },
+  {
+    "id": 171,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 24",
+    "english": "With the Nexersys machine, it's very similar. They have a progression or a series of workouts that I can do for the next six months. Just going, \"Okay, number two. Okay, number three. Okay, number four.\" It also gives you the ability to measure your success, because you're moving through these workouts, and if you're achieving your goals, they're getting progressively more complicated and progressively harder. They're adding more combinations, and they're teaching the skills in a relatable format.",
+    "literal_zh": "Nexersys 机器也非常类似。他们有一个进阶体系，或者一系列训练，我可以接下来六个月都照着做。就是“好，第二个。好，第三个。好，第四个。”它也让你能够衡量自己的成功，因为你在推进这些训练，如果你达成目标，它们就会逐渐变得更复杂、更困难。它们会加入更多组合拳，并用容易理解的形式教技能。",
+    "audio": null
+  },
+  {
+    "id": 172,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 24",
+    "english": "So you start out just working on 1-2, 1-2. Then you start throwing hooks, then you start throwing overhand rights, then you're throwing uppercuts, and they involve all these things. It's like algebra, where everything is based on what you've learned before. They reiterate the stuff you've already learned, and then they introduce a new skill. And they just keep introducing new skills and new skills.",
+    "literal_zh": "所以你一开始只是练 1-2、1-2。然后开始打勾拳，再开始打后手摆拳，然后打上勾拳，它们把所有这些东西都加入进来。这就像代数，一切都建立在你之前学过的东西之上。它们会重复你已经学过的内容，然后引入一个新技能。然后不断引入新技能、新技能。",
+    "audio": null
+  },
+  {
+    "id": 173,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 24",
+    "english": "I like that structure. I don't have to think about what I'm going to be doing. I don't have to write, \"I'm going to do 500 of this and 200 of that.\" I just move from the FightCamp workout to the speed bag, to the double-end bag, and then back to FightCamp. And then I go inside and I work on the Nexersys machine — I do three-minute rounds on that, and I just push play and say, \"Alright, man, tell me what I'm doing.\"",
+    "literal_zh": "我喜欢这种结构。我不需要思考自己要做什么。我不需要写下“我要做 500 个这个、200 个那个”。我只是从 FightCamp 训练切到速度球，再到双端球，然后回到 FightCamp。然后我进屋用 Nexersys 机器训练，在上面做三分钟回合。我只要按下播放，然后说：“好，兄弟，告诉我该做什么。”",
+    "audio": null
+  },
+  {
+    "id": 174,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 25",
+    "english": "FightCamp is mostly boxing combinations, right? Do you also mix in strength training, or do you treat that separately?",
+    "literal_zh": "FightCamp 主要是拳击组合训练，对吗？你会把力量训练混进去，还是单独安排？",
+    "audio": null
+  },
+  {
+    "id": 175,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 25",
+    "english": "I do calisthenics and bodyweight work. So I do four sets of 25 push-ups, four sets of 25 sit-ups — that kind of training. I do that in between the boxing workouts.",
+    "literal_zh": "我会做健身操和自重训练。所以我做四组每组 25 个俯卧撑，四组每组 25 个仰卧起坐，这类训练。我会把这些放在拳击训练之间。",
+    "audio": null
+  },
+  {
+    "id": 176,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 25",
+    "english": "What I would say is, most people would probably do their workout and then they would go do the boxing thing, or vice versa. For me, I do it after each round. So I'm adding boxing to every round of training that I do. And then I go out and try to skip rope and not trip over myself.",
+    "literal_zh": "我会说，大多数人可能会先完成自己的训练，然后去做拳击，或者反过来。对我来说，我会在每个回合后做。所以我把拳击加入到我每一轮训练里。然后我出去试着跳绳，并尽量不要绊倒自己。",
+    "audio": null
+  },
+  {
+    "id": 177,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 26",
+    "english": "On a dedicated boxing day, how do you decide what to train? For example, how would you choose between hooks, footwork, or combinations?",
+    "literal_zh": "在专门练拳的日子里，你怎么决定具体练什么？比如勾拳、步法或组合拳之间怎么选择？",
+    "audio": null
+  },
+  {
+    "id": 178,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 26",
+    "english": "Body combat is really important. A progressive training schedule, I think, is really important. I think the games would follow slightly behind that, because that's going to create a fun aspect — basically a kind of freeform. And then strength and punching power would fall behind those.",
+    "literal_zh": "身体格斗非常重要。渐进式训练计划，我觉得也非常重要。我觉得游戏会稍微排在后面，因为它会创造有趣的元素，基本上是一种自由形式。然后力量和出拳力量会排在它们后面。",
+    "audio": null
+  },
+  {
+    "id": 179,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 26",
+    "english": "Having a progressive workout schedule that you can follow — and then having those games that you can add. So you do a three or four-minute round of the progressive thing, and then you have this game that you play, and then you do another workout — or you do that as a reward for going through those training elements. You can then get to play the game.",
+    "literal_zh": "有一个你可以遵循的渐进式训练计划，然后有可以加入的游戏。比如你做一个三四分钟的渐进式训练回合，然后玩一个游戏，再做另一个训练——或者把游戏作为完成那些训练要素后的奖励。之后你就可以玩游戏。",
+    "audio": null
+  },
+  {
+    "id": 180,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 26",
+    "english": "What would really be cool is if you could incorporate the workout that you've done into that game, where the AI computer is teaching you, reinforcing the training that you did. \"I'm going to learn how to throw a hook. I'm going to learn how to throw a two-punch combo.\" And they start working those things into the game. That'd be kind of cool. I'm just speculating. But yeah, I would say the game would be fun as a reward for the progressive training. And then all the other elements, priority-wise, would fall behind that.",
+    "literal_zh": "真正酷的是，如果你们能把你已经完成的训练融入游戏，让 AI 电脑在游戏中继续教你、强化你刚做过的训练。“我要学习如何打勾拳。我要学习如何打两拳组合。”然后它们开始把这些东西融入游戏。那会挺酷的。我只是随便设想。但对，我会说游戏作为渐进式训练后的奖励会很有趣。然后其他所有元素在优先级上会排在那之后。",
+    "audio": null
+  },
+  {
+    "id": 181,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 27",
+    "english": "What about movement correction, where the machine watches your form and helps fix it? Would that be important, or just a nice extra feature?",
+    "literal_zh": "动作纠正呢？也就是机器观察你的姿势并帮助修正。这个重要吗，还是只是一个锦上添花的功能？",
+    "audio": null
+  },
+  {
+    "id": 182,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 27",
+    "english": "Yes. I would actually think that would probably be very important. Because one of the things about boxing — and this is something that you always have to pay attention to — is improper punching can lead to very serious injuries. You can break your hand. Now you don't have the use of your hand. So learning proper punching techniques, and having that computer be able to see, analyze, and correct — that's going to be a big factor. It's going to be a safety factor.",
+    "literal_zh": "重要。我实际上觉得那可能非常重要。因为拳击有一件事——也是你必须一直注意的事——就是不正确的出拳可能导致非常严重的伤害。你可能会打断自己的手。那你就不能使用那只手了。所以学习正确的出拳技术，并让电脑能够观察、分析和纠正，这会是一个重要因素。它会是一个安全因素。",
+    "audio": null
+  },
+  {
+    "id": 183,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 27",
+    "english": "It will make sure that the person isn't doing more than they should, that they're not trying to overwork themselves. But more importantly, if it's analyzing punching techniques, that's going to be beneficial because it will prevent someone from hurting themselves.",
+    "literal_zh": "它会确保用户没有做超过自己该做的量，没有试图过度训练。但更重要的是，如果它在分析出拳技术，那会很有益，因为它能防止用户伤到自己。",
+    "audio": null
+  },
+  {
+    "id": 184,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 27",
+    "english": "The biggest impediment to people achieving their fitness goals is injuries. You get injured, you're off for two weeks — you lose 70% of your physical gains in that two-week period. A hand injury where you can't punch for a week or two — you're going to lose all that momentum you've developed over that time.",
+    "literal_zh": "人们实现健身目标的最大障碍是受伤。你一受伤，就要停两周，在这两周里你会失去 70% 的身体进步。手部受伤导致你一两周不能出拳，你会失去那段时间里积累起来的所有势头。",
+    "audio": null
+  },
+  {
+    "id": 185,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 27",
+    "english": "Correcting behavior, being able to move and get out of the way of things — that's great stuff. But really, just teaching people how to punch effectively, and showing how to wrap your hands, and making sure your fist is closed — all those fundamental things.",
+    "literal_zh": "纠正行为，能够移动并躲开东西，这些都很棒。但真正重要的是教人们如何有效出拳，展示如何缠手，确保拳头握紧，所有这些基础东西。",
+    "audio": null
+  },
+  {
+    "id": 186,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 28",
+    "english": "What if JabX had electronic resistance built in, so after boxing you could also do curls, rows, and full strength training on the same machine? Would that make it more compelling?",
+    "literal_zh": "如果 JabX 内置电子阻力，让用户在拳击之后还可以在同一台机器上做弯举、划船和完整力量训练，这会更有吸引力吗？",
+    "audio": null
+  },
+  {
+    "id": 187,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 28",
+    "english": "Well, that would make it an all-in-one, and that's really going to help the home gym sales. Because then I can say, \"Hey, I don't need this other equipment.\" I can do resistance training — especially if it weighs enough, you could do suspension training using the resistance features. I think that's a great idea. I think that should definitely be incorporated. And that could be part of the workout. So you do your boxing workout, and it says, \"Okay, let's roll into our strength workout for today.\" Bicep curls, you can do deltoid raises — because you can do all that with straps and resistance.",
+    "literal_zh": "嗯，那会让它变成一体化设备，而这对家庭健身房销售会非常有帮助。因为那样我就可以说：“嘿，我不需要这些其他设备了。”我可以做阻力训练，尤其是如果它本身够重，你还可以利用阻力功能做悬挂训练。我觉得这是个很棒的想法。我觉得这绝对应该被加入。而且它可以成为训练的一部分。所以你完成拳击训练后，它说：“好，我们进入今天的力量训练。”二头弯举，你可以做三角肌侧平举，因为你可以用带子和阻力完成所有这些动作。",
+    "audio": null
+  },
+  {
+    "id": 188,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 29",
+    "english": "Let's talk about price. If electronic resistance added around $1,000, while regular resistance bands added around $100, which option would you prefer?",
+    "literal_zh": "我们聊一下价格。如果电子阻力会增加大约 1000 美元，而普通阻力带大约增加 100 美元，你会更倾向哪一种？",
+    "audio": null
+  },
+  {
+    "id": 189,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 29",
+    "english": "Well, I'm thinking of it as — if I'm going to invest in this particular piece of equipment, I'm someone who's going to be willing to spend the money. So I wouldn't want resistance bands. I would want that electronic resistance, tracking all I'm doing — so it can add more weight electronically, do all those things.",
+    "literal_zh": "嗯，我是这样想的：如果我要投资这件特定设备，我就是愿意花钱的人。所以我不会想要阻力带。我会想要电子阻力，追踪我做的一切，这样它可以通过电子方式增加重量，做所有这些事情。",
+    "audio": null
+  },
+  {
+    "id": 190,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 29",
+    "english": "I would say the extra $1,000 is not going to be the reason somebody doesn't buy it. Because they're already committed to investing a significant amount of money into this thing. As long as they're getting the results that they expect and it's meeting their expectations, they're not going to be afraid to spend the money.",
+    "literal_zh": "我会说，额外 1000 美元不会成为某人不买它的原因。因为他们已经决定要在这个东西上投入一大笔钱。只要他们能得到预期结果，并且它符合他们的期待，他们不会害怕花这笔钱。",
+    "audio": null
+  },
+  {
+    "id": 191,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 29",
+    "english": "Because you're looking at people who have disposable income, people who are pretty well established, and they're willing to invest in a piece of gym equipment that's going to work. These are not people who are trying to buy the little boxing dummy on TikTok or Temu and just hit the wall real soft, because if you hit it too hard you'll break it. These are people who are willing to invest serious money in your product.",
+    "literal_zh": "因为你们面对的是有可支配收入的人，是比较稳定的人，而且他们愿意投资一件真正有效的健身设备。这些人不是那种想在 TikTok 或 Temu 上买个小拳击靶、轻轻打墙的人，因为你打重一点就会把它打坏。这些人愿意在你们的产品上投入真正的钱。",
+    "audio": null
+  },
+  {
+    "id": 192,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 30",
+    "english": "Do you think people in your circle would be interested in JabX? Roughly how many of your friends might actually buy one?",
+    "literal_zh": "你觉得你身边的人会对 JabX 感兴趣吗？大概有多少朋友可能真的会买？",
+    "audio": null
+  },
+  {
+    "id": 193,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 30",
+    "english": "I have one friend who's really getting back into boxing — he would go ape over it. Excuse my language. He's a bigger guy. We were cops together, and he kind of put on some weight when he left the force. So he's trying to get back into it. I actually put a heavy bag in his office, and he's now starting to train again. He comes over and uses the Fight Bot, and I've got him on FightCamp, so we're working him through all that kind of stuff. He would think it was the cat's pajamas, for sure.",
+    "literal_zh": "我有一个朋友现在真的在重新开始练拳击，他会为这个疯狂。不好意思用词有点夸张。他是个块头比较大的人。我们以前一起当警察，他离开警队后有点发胖。所以他现在想重新练起来。我实际上在他的办公室里装了一个重沙袋，他现在又开始训练了。他会来我这里用 Fight Bot，我也让他用 FightCamp，所以我们正在带他做这些东西。他绝对会觉得这东西棒极了。",
+    "audio": null
+  },
+  {
+    "id": 194,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 31",
+    "english": "Is he completely new to boxing, or does he already know his way around a boxing gym?",
+    "literal_zh": "他是完全的拳击新手，还是已经比较了解拳馆训练？",
+    "audio": null
+  },
+  {
+    "id": 195,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 31",
+    "english": "I think he was a guy who got boxing training in the police academy, and probably boxed as a kid here and there — but never formal boxing training. He knows enough about the sport to want to pursue it as a form of fitness.",
+    "literal_zh": "我觉得他是在警校接受过拳击训练的人，可能小时候也零零散散打过一点，但从来没有接受过正式拳击训练。他对这项运动了解得足够多，所以会想把它作为一种健身方式继续做。",
+    "audio": null
+  },
+  {
+    "id": 196,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 31",
+    "english": "Again, I think one of the things you're looking at is — you're not looking at potentially training boxers. You're looking at people who want to use boxing as a way to get fit. I think that's kind of your niche market, because people trying to be boxers are going to have coaches, they're going to have trainers. They're going to be in places like the Hit Pit, working eight to ten hours a day — interacting with other people, getting coaching and feedback.",
+    "literal_zh": "再说一遍，我觉得你们要看的一个方向是：你们并不是在试图训练潜在拳手。你们面对的是想用拳击来健身的人。我觉得这就是你们的细分市场，因为那些想成为拳手的人会有教练，会有训练师。他们会在 Hit Pit 这样的地方，一天练八到十个小时，和其他人互动，接受教练和反馈。",
+    "audio": null
+  },
+  {
+    "id": 197,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 31",
+    "english": "The people that you're kind of steering towards are people like myself. I don't want to go… I'm not training for a fight. I want to stay in shape, and I want to do that via boxing, because I understand how significant boxing is to fitness — and how all-encompassing it is.",
+    "literal_zh": "你们真正面向的人更像我这样。我不想去……我不是为了打一场比赛而训练。我想保持身材，而且想通过拳击来保持身材，因为我理解拳击对健身有多重要，也理解它有多全面。",
+    "audio": null
+  },
+  {
+    "id": 198,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 32",
+    "english": "I just realized we never got your first name. What should we call you? Sorry about that.",
+    "literal_zh": "我刚意识到我们还没问你的名字。我们应该怎么称呼你？不好意思。",
+    "audio": null
+  },
+  {
+    "id": 199,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 32",
+    "english": "Mark. My friends call me Mac, because when I was a kid, one of my teachers thought the \"r\" was a \"c\" — so she called me Mac, and it stuck. So everybody calls me Mac.",
+    "literal_zh": "Mark。我的朋友们叫我 Mac，因为我小时候，有个老师把我名字里的 “r” 看成了 “c”，所以她叫我 Mac，然后这个名字就留下来了。所以大家都叫我 Mac。",
+    "audio": null
+  },
+  {
+    "id": 200,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 32",
+    "english": "Mac, great. Do you have any questions or suggestions for us? We're very open to feedback.",
+    "literal_zh": "Mac，很好。你有什么问题或建议想给我们吗？我们非常愿意听反馈。",
+    "audio": null
+  },
+  {
+    "id": 201,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 32",
+    "english": "I think you guys have asked enough questions that I don't have any real suggestions, other than — get it going, so we can start seeing this thing. I can't wait till you get done with it.",
+    "literal_zh": "我觉得你们已经问了足够多的问题，所以我没有什么真正的建议，除了——赶快把它做起来，这样我们就能开始看到这个东西。我等不及你们把它完成了。",
+    "audio": null
+  },
+  {
+    "id": 202,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 32",
+    "english": "We're planning to launch in August.",
+    "literal_zh": "我们计划在八月发布。",
+    "audio": null
+  },
+  {
+    "id": 203,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 32",
+    "english": "Oh, really? Oh, cool.",
+    "literal_zh": "哦，真的吗？哦，酷。",
+    "audio": null
+  },
+  {
+    "id": 204,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 32",
+    "english": "That's the plan, at least. We'll keep you posted, ideally about once a month.",
+    "literal_zh": "至少目前计划是这样。我们会持续同步进展，理想情况下大约每月一次。",
+    "audio": null
+  },
+  {
+    "id": 205,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 32",
+    "english": "If I may make a suggestion — and I'm not sure who you would need to contact — but military bases all have gyms. Navy bases, Air Force bases. I'm just down the street from Patrick Air Force Base, and they have a gym.",
+    "literal_zh": "如果我可以提一个建议——我不确定你们需要联系谁——但军事基地都有健身房。海军基地、空军基地都有。我就在 Patrick 空军基地附近，他们有一个健身房。",
+    "audio": null
+  },
+  {
+    "id": 206,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 32",
+    "english": "If you offered a military discount to put it in those gyms, I think you'd get a lot of veterans interested in this, because we've all had combat training at some level.",
+    "literal_zh": "如果你们提供军人折扣，把它放进那些健身房，我觉得会有很多退伍军人对此感兴趣，因为我们都在某种程度上接受过格斗训练。",
+    "audio": null
+  },
+  {
+    "id": 207,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 32",
+    "english": "MWR — Morale, Welfare and Recreation — is responsible for the base gyms. If you go to the military — Navy, Air Force, Marines, Army — they're going to have an MWR. Usually MWR is responsible for the base gyms. Talk to them about this product and see if you can launch it into there, offering a potential military discount or a law enforcement discount — because, again, sheriff's offices, police departments, fire departments — they all have gyms. They would like something like this, because it can reinforce a lot of the training that we do. The Brevard County Sheriff's Office — every precinct has a gym.",
+    "literal_zh": "MWR，也就是 Morale, Welfare and Recreation，士气、福利与娱乐部门，负责基地健身房。如果你去军方系统，无论是海军、空军、海军陆战队还是陆军，他们都会有 MWR。通常 MWR 负责基地健身房。你们可以跟他们聊这个产品，看看能不能把它放进去，提供潜在的军人折扣或执法人员折扣。因为同样，警长办公室、警察局、消防部门都有健身房。他们会喜欢这种东西，因为它可以强化我们很多训练。布里瓦德县警长办公室每个分局都有健身房。",
+    "audio": null
+  },
+  {
+    "id": 208,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 32",
+    "english": "Offering a special rate to get it in — because if you get it into these places, these people will talk about it. These people are like, \"Man, this needs to be over here.\" So yeah, talking to Army, Navy, Air Force, Marines Morale, Welfare and Recreation departments — trying to get someone who is responsible for purchasing equipment for those gyms — is going to be a great spot for you to look at as far as selling it.",
+    "literal_zh": "可以提供一个特殊价格先让它进去，因为如果你们把它放进这些地方，这些人会讨论它。他们会说：“兄弟，这东西也得放到我们那边。”所以，是的，去和陆军、海军、空军、海军陆战队的 MWR 部门谈，找到负责为这些健身房采购设备的人，这会是你们销售时很值得看的方向。",
+    "audio": null
+  },
+  {
+    "id": 209,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 32",
+    "english": "You think about it — there are probably a hundred bases in the U.S. alone that you could put one of these in. These are not half-ass gyms. The Air Force base gym — it's like treadmill heaven in there. It's ridiculous. I go there to swim in the pool, I don't use the gym, but they really do have top-shelf equipment. So whoever's purchasing that…",
+    "literal_zh": "你们想想，光美国可能就有上百个基地可以放一台。这些可不是随便凑合的健身房。空军基地健身房里面简直是跑步机天堂，夸张得很。我去那里是为了游泳池游泳，不用那里的健身房，但他们真的有顶级设备。所以负责采购那些设备的人……",
+    "audio": null
+  },
+  {
+    "id": 210,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 32",
+    "english": "Also — looking online and finding the big fitness influencers, and sending them one as a demo to test out the product, would be a great idea, because that boosts your social media profile and gets your product out there. I'm not a big fan of all these guys who do the fitness thing, because some of them talk more than they do. But finding a fitness influencer who matches what you think — again, I would say Tony Jeffries. I'll get his information. He's a boxer, he owns a boxing gym, and he's a social media influencer. Letting him test one out for you might be a big help, because it would definitely promote your product.",
+    "literal_zh": "另外，在线上找大型健身影响者，给他们寄一台样机测试产品，也会是个很好的想法，因为这会提升你们的社交媒体曝光，让产品传播出去。我不是所有健身博主的粉丝，因为有些人说得比做得多。但找一个符合你们理念的健身影响者——我还是会说 Tony Jeffries。我会把他的信息找给你们。他是拳手，有自己的拳馆，也是社交媒体影响者。让他帮你们测试一台可能会很有帮助，因为这肯定会推广你们的产品。",
+    "audio": null
+  },
+  {
+    "id": 211,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 32",
+    "english": "But definitely look at military, definitely look at law enforcement, firefighters — people like that. Getting it into their gyms. I'm not saying give it away — just talk to them about getting it in there, even as a test. \"Hey, if people don't like it, we'll take it back.\" But I guarantee people will be like, \"Oh my god, this is the coolest thing ever.\" Because it's interactive, and it does the things that a heavy bag doesn't. It interacts with you, and it's going to give feedback.",
+    "literal_zh": "但一定要看看军方，一定要看看执法部门、消防员这些人。把它放进他们的健身房。我不是说免费送，只是跟他们谈谈把它放进去，哪怕是测试。“嘿，如果大家不喜欢，我们就拿回来。”但我保证人们会说：“天啊，这是最酷的东西。”因为它是互动的，它能做重沙袋做不到的事。它会和你互动，也会给反馈。",
+    "audio": null
+  },
+  {
+    "id": 212,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 32",
+    "english": "We love feedback. Guys who train love — I mean, I have 15 logbooks of all the workouts I used to do when I was in the military, where I wrote it down: \"Did this many push-ups, did this many sit-ups, ran this far.\" I kept a logbook, because we want to track our progress, see how we're doing. So having all that digitally — it's going to save a lot of writing.",
+    "literal_zh": "我们喜欢反馈。训练的人都喜欢——我的意思是，我有 15 本训练日志，记录了我在军队时做过的所有训练。我会写下来：“做了多少个俯卧撑，做了多少个仰卧起坐，跑了多远。”我保留训练日志，因为我们想追踪自己的进步，看看自己表现如何。所以如果所有这些都能数字化，那会省下很多书写。",
+    "audio": null
+  },
+  {
+    "id": 213,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 33",
+    "english": "Mac, this is extremely valuable. Thank you. Also, we'll be at CES in Las Vegas this January, from January 6th through 9th. We'd be happy to have you come by.",
+    "literal_zh": "Mac，这些信息非常有价值。谢谢。另外，我们今年一月会去拉斯维加斯参加 CES，时间是 1 月 6 日到 9 日。我们很欢迎你过来看看。",
+    "audio": null
+  },
+  {
+    "id": 214,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 33",
+    "english": "Oh, I'll come out. Send me the dates, and I'll be there. I'm retired, I've got nothing to do — you tell me when, and I'll show up.",
+    "literal_zh": "哦，我会去的。把日期发给我，我就去。我退休了，没什么事做——你们告诉我时间，我就出现。",
+    "audio": null
+  },
+  {
+    "id": 215,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 33",
+    "english": "We'll send you all the details. Can't wait to actually meet you in person.",
+    "literal_zh": "我们会把所有细节发给你。等不及真正线下见到你了。",
+    "audio": null
+  },
+  {
+    "id": 216,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 33",
+    "english": "Absolutely. And if you need anything else, feel free to reach out. You have my WhatsApp — if you just send me a message saying, \"We'd like to talk to you some more,\" I'm always willing to talk, because — in case you haven't noticed — I'm a little bit chatty.",
+    "literal_zh": "当然。如果你们还需要其他任何东西，随时联系我。你们有我的 WhatsApp，只要给我发消息说“我们想再跟你聊聊”，我一直都愿意聊，因为——如果你们还没注意到的话——我有点话多。",
+    "audio": null
+  },
+  {
+    "id": 217,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 33",
+    "english": "We appreciate that. One last thing: when you have time, could you send the Nexersys workout video? No rush.",
+    "literal_zh": "非常感谢。最后一件事：你方便的时候可以把 Nexersys 训练视频发给我们吗？不着急。",
+    "audio": null
+  },
+  {
+    "id": 218,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 33",
+    "english": "Yep, the Nexersys machine. And then on Friday, I'll probably go down to Rock Box, and I'll take some photos, and I'll take some video of one of the classes. I'm happy to.",
+    "literal_zh": "没问题，Nexersys 机器。然后周五我大概会去 Rock Box，拍一些照片，也拍一个课程的视频。我很乐意。",
+    "audio": null
+  },
+  {
+    "id": 219,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 33",
+    "english": "That'll be Friday. And I will probably have the Nexersys workout video too, because I've got to get the garage cleaned out. We were working on a motorcycle — I have two custom motorcycles — and we had one completely torn apart, so there wasn't a lot of working out this week. But we got it all back together, so I'm going to get everything cleaned out so I can get back in there and start working again.",
+    "literal_zh": "那会是周五。我可能也会拍好 Nexersys 训练视频，因为我得把车库清理出来。我们之前在修摩托车——我有两辆定制摩托——其中一辆被完全拆开了，所以这周没怎么训练。但我们已经把它重新装好了，所以我会把所有东西清理出来，这样我就能回到那里重新开始训练。",
+    "audio": null
+  },
+  {
+    "id": 220,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 33",
+    "english": "Absolutely — and please keep me posted when you guys are getting ready to launch. I'll definitely come out to Vegas, and I look forward to meeting you guys in person.",
+    "literal_zh": "绝对没问题。你们准备发布时请一定持续告诉我。我肯定会去拉斯维加斯，也期待和你们线下见面。",
+    "audio": null
+  },
+  {
+    "id": 221,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 33",
+    "english": "This has been incredibly helpful. You have no idea how useful this is for us.",
+    "literal_zh": "这对我们非常有帮助。你可能不知道这些信息对我们有多有用。",
+    "audio": null
+  },
+  {
+    "id": 222,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 33",
+    "english": "It has been my pleasure, and I hope I helped.",
+    "literal_zh": "这是我的荣幸，也希望我确实帮上忙了。",
+    "audio": null
+  },
+  {
+    "id": 223,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 33",
+    "english": "Thank you so much, and sorry we kept you for so many questions. We got a little carried away.",
+    "literal_zh": "非常感谢，也抱歉我们问了这么多问题。我们确实有点聊得太投入了。",
+    "audio": null
+  },
+  {
+    "id": 224,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 33",
+    "english": "No worries. I'm happy to help, because I think what you guys are doing is great. You're producing a product, and you need as much information as you can get. If you can run across somebody like me who's been doing it most of his life — it might help a little bit. So I'm happy to help. Anything I can do, just let me know.",
+    "literal_zh": "没关系。我很乐意帮忙，因为我觉得你们正在做的事情很棒。你们在做一个产品，需要尽可能多的信息。如果你们碰到像我这样大半辈子都在做这类事的人，可能会有一点帮助。所以我很乐意帮忙。我能做的任何事，告诉我就行。",
+    "audio": null
+  },
+  {
+    "id": 225,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 33",
+    "english": "Thank you again. Have a great day, Mac.",
+    "literal_zh": "再次感谢。祝你今天过得愉快，Mac。",
+    "audio": null
+  },
+  {
+    "id": 226,
+    "speaker": "Mark",
+    "section": "Mark Interview - Part 33",
+    "english": "You too. Everyone — nice meeting you. Bye.",
+    "literal_zh": "你们也是。各位，很高兴认识你们。再见。",
+    "audio": null
+  },
+  {
+    "id": 227,
+    "speaker": "Interviewer",
+    "section": "Mark Interview - Part 33",
+    "english": "Bye! Nice meeting you too!",
+    "literal_zh": "再见！我们也很高兴认识你！",
+    "audio": null
+  }
+]

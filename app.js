@@ -11,6 +11,12 @@ const datasets = {
     audioMode: "tts",
     storageKey: "xingchen-shadowing-progress-v2",
   },
+  mark: {
+    label: "Mark Interview",
+    file: "data/mark_interview_sentences.json",
+    audioMode: "tts",
+    storageKey: "mark-interview-shadowing-progress-v1",
+  },
 };
 
 const state = {
@@ -369,6 +375,20 @@ function switchToNextSentence() {
   }, 120);
 }
 
+function startOrContinuePractice() {
+  if (!state.sentences.length || state.mode === "loading") return;
+  if (state.mode === "finished") {
+    state.currentIndex = 0;
+    state.mode = "idle";
+  }
+  if (state.mode === "waiting") {
+    switchToNextSentence();
+    return;
+  }
+  if (state.mode === "playing") return;
+  playSentence(state.currentIndex);
+}
+
 async function loadDataset(key) {
   if (!datasets[key]) return;
   stopPlayback();
@@ -425,11 +445,7 @@ els.rateSelect.addEventListener("change", () => {
 
 els.startBtn.addEventListener("click", () => {
   state.autoPractice = true;
-  if (state.mode === "waiting") {
-    setStatus("Press Space to stop this one and play the next sentence.");
-    return;
-  }
-  playSentence(state.currentIndex);
+  startOrContinuePractice();
 });
 
 els.pauseBtn.addEventListener("click", () => {
@@ -470,7 +486,11 @@ document.addEventListener("keydown", (event) => {
   event.preventDefault();
   if (state.isSpaceDown) return;
   state.isSpaceDown = true;
-  switchToNextSentence();
+  if (state.mode === "playing" || state.mode === "waiting") {
+    switchToNextSentence();
+  } else {
+    startOrContinuePractice();
+  }
 });
 
 document.addEventListener("keyup", (event) => {
