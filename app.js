@@ -27,6 +27,7 @@ const state = {
   mode: "idle",
   autoPractice: false,
   isSpaceDown: false,
+  isEnterDown: false,
   voices: [],
   utterance: null,
   rate: 1,
@@ -121,7 +122,7 @@ function updateProgress() {
 function updateHintText() {
   if (!els.hintPanel) return;
   els.hintPanel.textContent =
-    "Listen first -> press Space to stop this one and play the next sentence.";
+    "Listen first -> press Space to replay this sentence -> press Enter for the next sentence.";
 }
 
 function sentenceCard(id) {
@@ -282,7 +283,7 @@ function finishPlaying() {
   const item = state.sentences[state.currentIndex];
   if (!item || state.mode !== "playing") return;
   state.mode = "waiting";
-  setStatus(`Sentence ${item.id} finished. Press Space for the next sentence.`);
+  setStatus(`Sentence ${item.id} finished. Press Space to replay it, or Enter for the next sentence.`);
   refreshCards();
 }
 
@@ -293,7 +294,7 @@ function playSentence(index = state.currentIndex, options = {}) {
   state.currentIndex = index;
   const item = state.sentences[index];
   state.mode = "playing";
-  setStatus(`Playing sentence ${item.id}. Press Space to stop this one and play the next sentence.`);
+  setStatus(`Playing sentence ${item.id}. Press Space to replay it, or Enter for the next sentence.`);
   refreshCards();
   scrollToCurrent();
   saveProgress();
@@ -400,6 +401,7 @@ async function loadDataset(key) {
   state.mode = "loading";
   state.autoPractice = false;
   state.isSpaceDown = false;
+  state.isEnterDown = false;
   els.projectSelect.value = key;
   updateVoiceControls();
   updateHintText();
@@ -474,7 +476,7 @@ els.restartBtn.addEventListener("click", () => {
 });
 
 document.addEventListener("keydown", (event) => {
-  if (event.code !== "Space") return;
+  if (event.code !== "Space" && event.code !== "Enter") return;
   if (
     event.target instanceof HTMLInputElement ||
     event.target instanceof HTMLTextAreaElement ||
@@ -484,9 +486,15 @@ document.addEventListener("keydown", (event) => {
     return;
   }
   event.preventDefault();
-  if (state.isSpaceDown) return;
-  state.isSpaceDown = true;
-  if (state.mode === "playing" || state.mode === "waiting") {
+  if (event.code === "Space") {
+    if (state.isSpaceDown) return;
+    state.isSpaceDown = true;
+    playSentence(state.currentIndex);
+    return;
+  }
+  if (state.isEnterDown) return;
+  state.isEnterDown = true;
+  if (state.mode === "playing" || state.mode === "waiting" || state.mode === "idle") {
     switchToNextSentence();
   } else {
     startOrContinuePractice();
@@ -494,7 +502,7 @@ document.addEventListener("keydown", (event) => {
 });
 
 document.addEventListener("keyup", (event) => {
-  if (event.code !== "Space") return;
+  if (event.code !== "Space" && event.code !== "Enter") return;
   if (
     event.target instanceof HTMLInputElement ||
     event.target instanceof HTMLTextAreaElement ||
@@ -504,7 +512,11 @@ document.addEventListener("keyup", (event) => {
     return;
   }
   event.preventDefault();
-  state.isSpaceDown = false;
+  if (event.code === "Space") {
+    state.isSpaceDown = false;
+  } else {
+    state.isEnterDown = false;
+  }
 });
 
 async function init() {
