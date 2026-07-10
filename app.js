@@ -475,18 +475,30 @@ els.restartBtn.addEventListener("click", () => {
   saveProgress();
 });
 
+function shortcutKey(event) {
+  if (event.code === "Space" || event.key === " ") return "space";
+  if (event.code === "Enter" || event.code === "NumpadEnter" || event.key === "Enter") return "enter";
+  return "";
+}
+
+function isTextEntryTarget(target) {
+  return (
+    target instanceof HTMLInputElement ||
+    target instanceof HTMLTextAreaElement ||
+    target instanceof HTMLSelectElement
+  );
+}
+
 document.addEventListener("keydown", (event) => {
-  if (event.code !== "Space" && event.code !== "Enter") return;
+  const key = shortcutKey(event);
+  if (!key) return;
   if (
-    event.target instanceof HTMLInputElement ||
-    event.target instanceof HTMLTextAreaElement ||
-    event.target instanceof HTMLSelectElement ||
-    event.target instanceof HTMLButtonElement
+    isTextEntryTarget(event.target)
   ) {
     return;
   }
   event.preventDefault();
-  if (event.code === "Space") {
+  if (key === "space") {
     if (state.isSpaceDown) return;
     state.isSpaceDown = true;
     playSentence(state.currentIndex);
@@ -502,17 +514,15 @@ document.addEventListener("keydown", (event) => {
 });
 
 document.addEventListener("keyup", (event) => {
-  if (event.code !== "Space" && event.code !== "Enter") return;
+  const key = shortcutKey(event);
+  if (!key) return;
   if (
-    event.target instanceof HTMLInputElement ||
-    event.target instanceof HTMLTextAreaElement ||
-    event.target instanceof HTMLSelectElement ||
-    event.target instanceof HTMLButtonElement
+    isTextEntryTarget(event.target)
   ) {
     return;
   }
   event.preventDefault();
-  if (event.code === "Space") {
+  if (key === "space") {
     state.isSpaceDown = false;
   } else {
     state.isEnterDown = false;
